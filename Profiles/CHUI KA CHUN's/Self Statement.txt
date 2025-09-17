@@ -17,13 +17,10 @@ Hong Kong Boys’ & Girls’ Clubs Association (HKBGCA), contributing to communi
   On the technical side, I consider myself a creative, self-driven programmer with over seven years of personal 
 experience. During this time, I have explored multiple programming languages and independently gained skills through 
 self-study. My main areas of focus include Python 3, SQL, Java, and website development. This journey began in Primary 
-4, when I was first introduced to Scratch and Micro:bit during computer classes. That early exposure to programming awakened my passion and showed me the limitless creativity and opportunities within information technology.  
+4, when I was first introduced to Scratch and Micro:bit during computer classes. That early exposure to programming 
+awakened my passion and showed me the limitless creativity and opportunities within information technology.  
 
-Looking ahead, I aspire to become a professional programmer. My goal is to apply my knowledge of programming and I.T. to unleash creativity, maximize my abilities, and inspire others with my curiosity about the future. I hope to share this passion, collaborate with others, and together confront challenges, while building innovative solutions that reflect both imagination and technical skill.  
-Scartch and Microbit respectively. That was my first experience in programming. The 
-world of programming and I.T are so fantasy, it filled with an infinite universe. 
-From that moment on, I opened my new universe, growing slowly over time, my passion 
-and interest in programming is growing stronger and stronger.
+Looking ahead, I aspire to become a professional programmer. My goal is to apply my knowledge of programming and I.T. to unleash creativity, maximize my abilities, and inspire others with my curiosity about the future. I hope to share this passion, collaborate with others, and together confront challenges, while building innovative solutions that reflect both imagination and technical skill. 
 
   In the future, I'm hope want to be a formal programmer, through my knowledge be side on 
 programming and I.T, and unleash your creativity, give full play to your abilities, expand 
