@@ -1,27 +1,14 @@
 /*(c)《CÿHőKìYŭ》-Member Profiles*/
 // CHUI KA CHUN's\Self-Statement:
-  My name is Chui Ka Chun, 17.92yos, year 13. Now study High Diploma for 
-Software Engineering at Hong Kong Institute of Information Technology, and 
-attend the semester1. Additionally, I'm also a Lower-intermediate(2) level 
-creativete-type spontaneous programmer.
+  My name is Chui Ka Chun, and I am currently 17 years old, studying for the Higher Diploma in Software Engineering at the Hong Kong Institute of Information Technology, where I am in my first semester. I would describe myself as a creative and spontaneous programmer with a developing foundation in software development, currently at a lower-intermediate level.  
 
-  Be side in academic, I'm the 19th Graduate of Hong Kong Aldrich Bay 
-Government Primary School, 58th Graduate of Hong Kong Shau Kei Wan East
-Government Secondary School. For the high form in my secondary school, 
-my elective subjects are Information and Communication Technology(ICT), 
-Design and Applied Technology(DAT) and Apply Learning: Computer Game and 
-Animation Design(CGAD)@VTC. In 2023, I had attempted 25-hours for the 
-"Storngth-Based Group:App Coding(AC02)". While in out of academic, I had 
-attempted Hong Kong Scouts since 2018 March. Now, I'm the member in HK 
-82th Scouts (Ventures). Moreover, I'm also a Member Volunteer of HKBGCA.
+In terms of academic background, I was the 19th Graduate of Hong Kong Aldrich Bay Government Primary School and later the 58th Graduate of Hong Kong Shau Kei Wan East Government Secondary School. During my senior secondary years, my elective subjects included Information and Communication Technology (ICT), Design and Applied Technology (DAT), and Applied Learning: Computer Game and Animation Design (CGAD) at VTC. In 2023, I completed a 25-hour workshop “Strength-Based Group: App Coding (AC02),” further cementing my hands-on skills.  
 
-  Be side on self-development, I'm a Creativete-type Spontaneous programmer, 
-7 years of service. In those years, I try myself best to learn different 
-programming languages and get the different skills by my own. My main areas 
-of self-study and creative research includes Python-3, SQL, Java, and Web page 
-creation.
+Outside of academics, I have been active in extracurricular and community service. Since March 2018, I have been a member of the Hong Kong Scouts, where I currently serve as part of the 82nd Hong Kong Scouts (Ventures). Additionally, I volunteer as a member of the Hong Kong Boys’ & Girls’ Clubs Association (HKBGCA), contributing to community initiatives and youth engagement.  
 
-  Since I'm year4(Primary-4), in two regular computer classes, the teacher taught 
+On the technical side, I consider myself a creative, self-driven programmer with over seven years of personal experience. During this time, I have explored multiple programming languages and independently gained skills through self-study. My main areas of focus include Python 3, SQL, Java, and website development. This journey began in Primary 4, when I was first introduced to Scratch and Micro:bit during computer classes. That early exposure to programming awakened my passion and showed me the limitless creativity and opportunities within information technology.  
+
+Looking ahead, I aspire to become a professional programmer. My goal is to apply my knowledge of programming and I.T. to unleash creativity, maximize my abilities, and inspire others with my curiosity about the future. I hope to share this passion, collaborate with others, and together confront challenges, while building innovative solutions that reflect both imagination and technical skill.  
 Scartch and Microbit respectively. That was my first experience in programming. The 
 world of programming and I.T are so fantasy, it filled with an infinite universe. 
 From that moment on, I opened my new universe, growing slowly over time, my passion 
