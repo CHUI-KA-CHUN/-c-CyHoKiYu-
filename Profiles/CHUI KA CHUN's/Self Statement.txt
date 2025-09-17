@@ -19,4 +19,5 @@ Volunteer of HKBGCA.
 
   Be side on self-development, I'm a Creativete-type Spontaneous programmer, 
 7 years of service. In those years, I try myself best to learn different 
-programming languages and get the different skills by my own. My main areas of self-study and creative research includes Python-3, SQL, Java, and Web page creation.
+programming languages and get the different skills by my own. My main areas 
+of self-study and creative research includes Python-3, SQL, Java, and Web page creation.
