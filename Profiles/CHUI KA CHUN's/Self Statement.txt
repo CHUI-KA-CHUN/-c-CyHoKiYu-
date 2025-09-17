@@ -9,8 +9,8 @@ lower-intermediate level.
 later the 58th Graduate of Hong Kong Shau Kei Wan East Government Secondary School. During my senior secondary years, 
 my elective subjects included Information and Communication Technology (ICT), Design and Applied Technology (DAT), and 
 Applied Learning: Computer Game and Animation Design (CGAD) at VTC. In 2023, I completed a 25-hour workshop 
-“Strength-Based Group: App Coding (AC02),” further cementing my hands-on skills. Outside of academics, I have been active in extracurricular and community service. Since March 2018, I have been 
-a member of the Hong Kong Scouts, where I currently serve as part of the 82nd Hong Kong Scouts (Ventures). Additionally, I volunteer as a member of the Hong Kong Boys’ & Girls’ Clubs Association (HKBGCA), contributing to community initiatives and youth engagement.  
+“Strength-Based Group: App Coding (AC02),” further cementing my hands-on skills. Outside of academics, I have been 
+active in extracurricular and community service. Since March 2018, I have been a member of the Hong Kong Scouts, where I currently serve as part of the 82nd Hong Kong Scouts (Ventures). Additionally, I volunteer as a member of the Hong Kong Boys’ & Girls’ Clubs Association (HKBGCA), contributing to community initiatives and youth engagement.  
 
 On the technical side, I consider myself a creative, self-driven programmer with over seven years of personal experience. During this time, I have explored multiple programming languages and independently gained skills through self-study. My main areas of focus include Python 3, SQL, Java, and website development. This journey began in Primary 4, when I was first introduced to Scratch and Micro:bit during computer classes. That early exposure to programming awakened my passion and showed me the limitless creativity and opportunities within information technology.  
 
