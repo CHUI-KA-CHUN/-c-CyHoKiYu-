@@ -1,3 +1,6 @@
+# ©️《CÿHőKìYŭ》— A creativity group —
+## Announcements: Gov-Announcement
+
 Dear Readers/Followers,
 
 ©️《CÿHőKìYŭ》— A creativity group —. It is committed to safeguarding personal data in strict compliance with the *Personal Data (Privacy) Ordinance* (Cap. 486) of the Hong Kong Special Administrative Region.  
@@ -12,7 +15,11 @@ We wish to inform our you that:
 ©️《CÿHőKìYŭ》 will continue to review and update its data protection practices to align with the requirements of the *Privacy Commissioner for Personal Data, Hong Kong* (PCPD). We remain committed to maintaining the highest standard of transparency and responsibility in handling personal data.  
 
 Yours faithfully,
+
 CHUI KA CHUN (Cyrus CHUI K.C.)
+
 Chief Commander and Chief Supervisor
+
 ©️《CÿHőKìYŭ》
+
 17-Sep-2025
