@@ -1,5 +1,6 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
 ## 【Our Background】
+> Under preparation
 ## 【Announcements】
 ### 〔Announcements: Gov-Announcement〕
 
@@ -25,3 +26,7 @@ Chief Commander and Chief Supervisor
 ©️《CÿHőKìYŭ》
 
 17-Sep-2025
+
+
+### 〔Announcements: Group Announcement〕
+> Under preparation
