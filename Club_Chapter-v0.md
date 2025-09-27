@@ -8,13 +8,13 @@
 >> ##### (i). Do not copy／share／use other member's work (i.e.:software, writing, programe, etc.) without permission, as required by the Hong Kong Copyright Ordinance (Cap. 528);
 >> ##### (ii). 🔗 HK Copyright Ordinance (Cap. 528): [Learn more HK Copyright Ordinance (Cap. 528).](https://www.elegislation.gov.hk/hk/cap528) ;
 >> ##### (iii). While use/references/view other member's work, including each format of text-DOCs,spreadsheets, charts, photographs, programe files, etc. Please must respect all the copyrights to the owner, first-editor/first-developer of the work. Facing the following levels of severity:
->>> ###### (a). First offense and Fewer pesonal misunderstandings: under preparation
->>> ###### (b). Frist offense and Personal Misunderstand: under preparation
+>>> ###### (a). First offense and Fewer pesonal misunderstandings: 
+>>> ###### (b). Frist offense and Personal Misunderstand: 
 >>> ###### (c). First offense and Excessive Personal misunderstanding: under preparation
->>> ###### (d). First offense and Small Personal Mistakes: under preparation
+>>> ###### (d). First offense and Small Personal Mistakes: 
 >>> ###### (e). First offense and Common Personal miss: under preparation
 >>> ###### (f). First offense and General Personal miss: under preparation
->>> ###### (g). First offense and Too much Personal missed:  under preparation
+>>> ###### (g). First offense and Too much Personal missed: 
 ## B. Fair Use: 
 ##### (i). You may use different parts of materials for self-study/research/reference, but always give credit and respect the copyright to the original creator.  
 3. Privacy: Protect personal information. Do not share names, addresses, photos, or private details of others without their agreement, in line with the Personal Data (Privacy) Ordinance (Cap. 486).  
