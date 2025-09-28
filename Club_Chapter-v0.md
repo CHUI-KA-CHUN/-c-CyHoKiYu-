@@ -14,7 +14,7 @@
 >>> ###### (d). First offense and Small Personal Mistakes: Less mention;
 >>> ###### (e). First offense and Common Personal miss: Mid-Mention;
 >>> ###### (f). First offense and General Personal miss: Less alert;
->>> ###### (g). First offense and Too much Personal missed: 
+>>> ###### (g). First offense and Too much Personal missed: Lower alert.
 ## B. Fair Use: 
 ##### (i). You may use different parts of materials for self-study/research/reference, but always give credit and respect the copyright to the original creator.  
 3. Privacy: Protect personal information. Do not share names, addresses, photos, or private details of others without their agreement, in line with the Personal Data (Privacy) Ordinance (Cap. 486).  
