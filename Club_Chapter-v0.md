@@ -7,7 +7,7 @@
 > #### A. Copyright:
 >> ##### (i). Do not copy／share／use other member's work (i.e.:software, writing, programe, etc.) without permission, as required by the Hong Kong Copyright Ordinance (Cap. 528);
 >> ##### (ii). 🔗 HK Copyright Ordinance (Cap. 528): [Learn more HK Copyright Ordinance (Cap. 528).](https://www.elegislation.gov.hk/hk/cap528) ;
->> ##### (iii). While use/references/view other member's work, including each format of text-DOCs,spreadsheets, charts, photographs, programe files, etc. Please must respect all the copyrights to the owner, first-editor/first-developer of the work. Facing the following levels of severity:
+>> ##### (iii). While use/references/view other member's work, including each format of text-DOCs,spreadsheets, charts, photographs, programe files, etc. Please must respect all the copyrights to the owner, first-editor/first-developer of the work. You'll facing the following levels of severity:
 >>> ###### (a). First offense and Fewer pesonal misunderstandings: No punishment;
 >>> ###### (b). Frist offense and Personal Misunderstand: No punishment;
 >>> ###### (c). First offense and Excessive Personal misunderstanding: No punishment;
@@ -16,9 +16,9 @@
 >>> ###### (f). First offense and General Personal miss: Mid-Mention;
 >>> ###### (g). First offense and Too much Personal missed: High mention;
 >>> ###### (h). Second offense and Fewer pesonal misunderstandings: Less mention;
->>> ###### (i). Second offense and Personal Misunderstand: No punishment;
-(c). First offense and Excessive Personal misunderstanding: No punishment;
-(d). First offense and Small Personal Mistakes: Less mention;
+>>> ###### (i). Second offense and Personal Misunderstand: Low-Mid-Mention;
+>>> ###### (j). Second offense and Excessive Personal misunderstanding: Mid-Mention;
+>>> ###### (k). Second offense and Small Personal Mistakes: High mention;
 (e). First offense and Common Personal miss: Mid-Mention;
 (f). First offense and General Personal miss: Less alert;
 (g). First offense and Too much Personal missed: Lower alert.
