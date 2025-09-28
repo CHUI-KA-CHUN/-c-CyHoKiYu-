@@ -12,11 +12,11 @@
 >>> ###### (b). Frist offense and Personal Misunderstand: No punishment;
 >>> ###### (c). First offense and Excessive Personal misunderstanding: No punishment;
 >>> ###### (d). First offense and Small Personal Mistakes: Less mention;
->>> ###### (e). First offense and Common Personal miss: Mid-Mention;
->>> ###### (f). First offense and General Personal miss: Less alert;
->>> ###### (g). First offense and Too much Personal missed: Lower alert.
->>> ###### (h). Second offense and Fewer pesonal misunderstandings: No punishment;
-(b). Frist offense and Personal Misunderstand: No punishment;
+>>> ###### (e). First offense and Common Personal miss: Low-Mid-Mention;
+>>> ###### (f). First offense and General Personal miss: Mid-Mention;
+>>> ###### (g). First offense and Too much Personal missed: High mention;
+>>> ###### (h). Second offense and Fewer pesonal misunderstandings: Less mention;
+>>> ###### (i). Second offense and Personal Misunderstand: No punishment;
 (c). First offense and Excessive Personal misunderstanding: No punishment;
 (d). First offense and Small Personal Mistakes: Less mention;
 (e). First offense and Common Personal miss: Mid-Mention;
