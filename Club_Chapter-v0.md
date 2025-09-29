@@ -24,6 +24,15 @@
 >>> ###### (n). Second offense and Too much Personal misunderstanding: Mid-Mention;
 >>> ###### (o). Second offense and Small Personal Mistakes: High mention;
 >>> ###### (p). Second offense and Common Personal Mistakes: Highly mention;
+>>> ###### (q). Third offense and Fewer pesonal misunderstandings: ;
+>>> ###### (r). Third offense and Personal Misunderstand: ;
+>>> ###### (s). Third offense and Excessive Personal misunderstanding: ;
+>>> ###### (t). Third offense and Small Personal Mistakes: ;
+>>> ###### (u). Third offense and Common Personal miss: ;
+>>> ###### (v). Third offense and General Personal miss: ;
+>>> ###### (w). Third offense and Too much Personal misunderstanding: ;
+>>> ###### (x). Third offense and Small Personal Mistakes: ;
+>>> ###### (y). Third offense and Common Personal Mistakes: ;
 ## B. Fair Use: 
 ##### (i). You may use different parts of materials for self-study/research/reference, but always give credit and respect the copyright to the original creator.  
 3. Privacy: Protect personal information. Do not share names, addresses, photos, or private details of others without their agreement, in line with the Personal Data (Privacy) Ordinance (Cap. 486).  
