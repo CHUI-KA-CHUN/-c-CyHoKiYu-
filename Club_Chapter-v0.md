@@ -30,5 +30,8 @@
 >> ##### (i). Do not share names/addresses/photographs/private details of others without their agreement, in line with the Personal Data (Privacy) Ordinance (Cap. 486);
 >> ##### (ii). Hong Kong Personal Data (Privacy) Ordinance (Cap. 486). URL: [Learn more about Hong Kong Personal Data (Privacy) Ordinance (Cap. 486).](https://www.elegislation.gov.hk/hk/cap486)
 > #### B. PRIVACY branch
+>> ##### (i). Description
+>>> PRIVACY branch is the branch that use for save a lot of documents that about him/her, includs profile(self-intro-statement), self-Long-term planning guide, certificates of honor related to IT or service participation or uniform groups (i.e.: programming, software engineering and development, volunteer work, scout service/activities, etc.).
+>> ##### (ii). 
 4. Digital Conduct: Ask for consent before recording or posting group activities online. Avoid harmful actions such as cyberbullying or doxxing.  
 5. Accountability: Report any violation of these rules honestly. Repeated or serious breaches may result in removal from the group or legal action.  
