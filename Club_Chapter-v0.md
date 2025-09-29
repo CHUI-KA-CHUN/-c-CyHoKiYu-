@@ -11,6 +11,10 @@
 >>> ###### a) First offense with misunderstandings: No any punishment would be faced;
 >>> ###### b) First offense with careless mistakes: You would got a Little-Bit-Mentions mail (in our group would be sort called as 'LBM mail');
 >>> ###### c) First offense with common mistakes: You would got a Normal-Mention mail (in our group would be sort called as 'NM mail');
+>>> ###### d) Second offense with misunderstandings: You would got a High-Mentions mail (in our group would be sort called as 'HM2 mail');
+>>> ###### e) Second offense with careless mistakes: You would got a Highly-Mention mail (in our group would be sort called as 'HM1 mail');
+>>> ###### f) Second offense with common mistakes: You would got a Little-Bit-Alert mail (in our group would be sort called as 'LBA mail');
+>>> ###### g) Third offense with misunderstandings: 
 #
 ## B. Fair Use: 
 ##### (i). You may use different parts of materials for self-study/research/reference, but always give credit and respect the copyright to the original creator.  
