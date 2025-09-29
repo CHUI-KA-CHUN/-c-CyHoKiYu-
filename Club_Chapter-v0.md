@@ -11,8 +11,8 @@
 >>> ###### (a). First offense and Fewer pesonal misunderstandings: No punishment;
 >>> ###### (b). Frist offense and Personal Misunderstand: little bit coordination;
 >>> ###### (c). First offense and Excessive Personal misunderstanding: coordination;
->>> ###### (d). First offense and Small Personal Mistakes: ;
->>> ###### (e). First offense and Common Personal miss: ;
+>>> ###### (d). First offense and Small Personal Mistakes: little bit mediation;
+>>> ###### (e). First offense and Common Personal miss: mediation;
 >>> ###### (f). First offense and General Personal miss: ;
 >>> ###### (g). First offense and Too much Personal missed: ;
 >>> ###### (h). Second offense and Fewer pesonal misunderstandings: ;
