@@ -32,6 +32,8 @@
 > #### B. PRIVACY branch
 >> ##### (i). Description
 >>> PRIVACY branch is the branch that use for save a lot of documents that about him/her, includs profile(self-intro-statement), self-Long-term planning guide, certificates of honor related to IT or service participation or uniform groups (i.e.: programming, software engineering and development, volunteer work, scout service/activities, etc.).
->> ##### (ii). 
+>> ##### (ii). Terms of Use
+>>> ###### a) You could use this branch to browse the profile of each group member, but can not do any edition, unless you are the owner of the profile;
+>>> ###### b) Do not copy/edit/delete the content of each member's profile;
 4. Digital Conduct: Ask for consent before recording or posting group activities online. Avoid harmful actions such as cyberbullying or doxxing.  
 5. Accountability: Report any violation of these rules honestly. Repeated or serious breaches may result in removal from the group or legal action.  
