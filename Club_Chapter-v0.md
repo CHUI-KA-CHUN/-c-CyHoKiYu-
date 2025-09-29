@@ -19,9 +19,11 @@
 >>> ###### (i). Second offense and Personal Misunderstand: Low-Mid-Mention;
 >>> ###### (j). Second offense and Excessive Personal misunderstanding: Mid-Mention;
 >>> ###### (k). Second offense and Small Personal Mistakes: High mention;
-(e). First offense and Common Personal miss: Mid-Mention;
-(f). First offense and General Personal miss: Less alert;
-(g). First offense and Too much Personal missed: Lower alert.
+>>> ###### (l). Second offense and Common Personal miss: Little alert;
+>>> ###### (m). Second offense and General Personal miss: Small alert;
+>>> ###### (n). Second offense and Too much Personal misunderstanding: Normal alert;
+>>> ###### (o). Repeated mistakes after second offense and Fewer pesonal misunderstandings: Little alert;
+>>> ###### (p). Repeated mistakes after second offense and Pesonal misunderstandings: Small alert;
 ## B. Fair Use: 
 ##### (i). You may use different parts of materials for self-study/research/reference, but always give credit and respect the copyright to the original creator.  
 3. Privacy: Protect personal information. Do not share names, addresses, photos, or private details of others without their agreement, in line with the Personal Data (Privacy) Ordinance (Cap. 486).  
