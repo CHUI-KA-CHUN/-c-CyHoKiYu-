@@ -13,17 +13,17 @@
 >>> ###### (c). First offense and Excessive Personal misunderstanding: coordination;
 >>> ###### (d). First offense and Small Personal Mistakes: little bit mediation;
 >>> ###### (e). First offense and Common Personal miss: mediation;
->>> ###### (f). First offense and General Personal miss: ;
->>> ###### (g). First offense and Too much Personal missed: ;
->>> ###### (h). Second offense and Fewer pesonal misunderstandings: ;
->>> ###### (i). Second offense and Personal Misunderstand: ;
->>> ###### (j). Second offense and Excessive Personal misunderstanding: ;
->>> ###### (k). Second offense and Small Personal Mistakes: ;
->>> ###### (l). Second offense and Common Personal miss: ;
->>> ###### (m). Second offense and General Personal miss: ;
->>> ###### (n). Second offense and Too much Personal misunderstanding: ;
->>> ###### (o). Second offense and Small Personal Mistakes: ;
->>> ###### (p). Second offense and Common Personal Mistakes: ;
+>>> ###### (f). First offense and General Personal miss: Little bit mention;
+>>> ###### (g). First offense and Too much Personal missed: less mention;
+>>> ###### (h). Second offense and Fewer pesonal misunderstandings: Little bit mediation;
+>>> ###### (i). Second offense and Personal Misunderstand: mediation;
+>>> ###### (j). Second offense and Excessive Personal misunderstanding: little bit mention;
+>>> ###### (k). Second offense and Small Personal Mistakes: Less mention;
+>>> ###### (l). Second offense and Common Personal miss: Lower mention;
+>>> ###### (m). Second offense and General Personal miss: Low-Mid-Mention;
+>>> ###### (n). Second offense and Too much Personal misunderstanding: Mid-Mention;
+>>> ###### (o). Second offense and Small Personal Mistakes: High mention;
+>>> ###### (p). Second offense and Common Personal Mistakes: Highly mention;
 ## B. Fair Use: 
 ##### (i). You may use different parts of materials for self-study/research/reference, but always give credit and respect the copyright to the original creator.  
 3. Privacy: Protect personal information. Do not share names, addresses, photos, or private details of others without their agreement, in line with the Personal Data (Privacy) Ordinance (Cap. 486).  
