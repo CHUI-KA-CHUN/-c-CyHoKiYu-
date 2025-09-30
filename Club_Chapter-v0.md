@@ -35,6 +35,12 @@
 >> ##### (ii). Terms of Use
 >>> ###### a) You could use this branch to browse the profile of each group member, but can not do any edition, unless you are the owner of the profile;
 >>> ###### b) Do not copy/edit/delete the content of each member's profile;
->>> ###### c) If you frist offense the rule 3B(ii)(b), you would got a Highly-Alert mail;
-4. Digital Conduct: Ask for consent before recording or posting group activities online. Avoid harmful actions such as cyberbullying or doxxing.  
-5. Accountability: Report any violation of these rules honestly. Repeated or serious breaches may result in removal from the group or legal action.  
+>>> ###### c) If you frist offense the rule 3A(i) or 3B(ii)(b), you would got a Highly-Alert mail (in our group would be sort called as 'HA1 mail');
+>>> ###### d) If you second offense the rule 3A(i) or 3B(ii)(b), you would got a warning mail;
+>>> ###### e) Otherwise: Your membership will be cancelled permanent cancellation.
+### 4. Digital Conduct
+> #### A. Ask for consent before recording or posting group activities online;
+> #### B. Avoid harmful actions such as cyberbullying or doxxing.  
+### 5. Accountability
+> #### A. Report any violation of these rules honestly;
+> #### B. Repeated or serious breaches may result in removal from the group or legal action.  
