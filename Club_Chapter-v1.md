@@ -1,6 +1,6 @@
 # ©️《CÿHőKìYŭ》— A creativity group
 
-## Club Chapter (version-0)
+## Club Chapter (version-1)
 ### 1. Personal Integrity
 > ©️《CÿHőKìYŭ》are believe in honesty, respect, and responsibility. Every member must act fairly and treat others with trust and dignity.
 ### 2. Our Rules
