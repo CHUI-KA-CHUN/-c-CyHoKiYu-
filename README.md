@@ -8,7 +8,7 @@
 >
 > As the commander-in-chief and chief supervisor, on behalf of this club, I hope and wish that all members can actively and bravely continue to try to explore their own infinite universe in this space.
 >
-> (C.C.S.): **CHUI-KA-CHUN**
+> Club (C.C.S.): **CHUI-KA-CHUN**
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1.md)
