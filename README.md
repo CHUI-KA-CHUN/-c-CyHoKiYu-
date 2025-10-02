@@ -1,6 +1,8 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
 ## 【Our Background】
-> Under preparation…
+> ©️《CÿHőKìYŭ》is a creativity club group.
+> 
+> ©️《CÿHőKìYŭ》are committed to developing innovation, creative thinking, and diversification, and to continuously develop creatively based on existing technologies in the market, thereby breaking the traditional rules and patterns. We hope to create a creative space with a high degree of freedom and broad space, so that all members can unleash their unlimited imagination and creativity and expand their own "infinite universe".
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1.md)
