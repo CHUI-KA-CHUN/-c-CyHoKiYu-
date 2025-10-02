@@ -5,6 +5,10 @@
 > ©️《CÿHőKìYŭ》are committed to developing innovation, creative thinking, and diversification, and to continuously develop creatively based on existing technologies in the market, thereby breaking the traditional rules and patterns. We hope to create a creative space with a high degree of freedom and broad space, so that all members can unleash their unlimited imagination and creativity and expand their own "infinite universe".
 >
 > Furthermore, ©️《CÿHőKìYŭ》 values ​​individual and team development, creative creation, and long-term project development. Furthermore, it places great emphasis on the information literacy of its members.
+>
+> As the commander-in-chief and chief supervisor, on behalf of this club, I hope and wish that all members can actively and bravely continue to try to explore their own infinite universe in this space.
+>
+> ©️《CÿHőKìYŭ》 (C.C.S.): CHUI KA CHUN
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1.md)
