@@ -6,7 +6,7 @@
 >
 > As commander-in-chief, I encourage every member to explore boldly and unlock their limitless potential within this space.
 >
-> **Club 1st month (C.C.S.): CHUI-KA-CHUN**  
+> **Club (C.C.S.): CHUI-KA-CHUN**  
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1.md)
