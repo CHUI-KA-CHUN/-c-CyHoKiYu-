@@ -1,6 +1,16 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
+> _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 ## 【Club Name Meaning】
+> The name "CÿHőKìYŭ" is composed of foThe name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
+> - **Cÿ** – From the first two letters of *Cyrus* (the club’s English nickname for C.C.S.) and also *Cyber*, reflecting our focus on technology.
 > 
+> - **Hő** – Represents *Hope* and *Hoshizato*, symbolizing personal ideals and long-term goals.
+>
+> - **Kì** – Echoes the sound of *Clear*, expressing our wish for growth and flourishing.
+> 
+> - **Yŭ** – Inspired by the Japanese *Yume* (“dream”), capturing our desire for every member to pursue their dreams boldly.
+> 
+> Together, **CÿHőKìYŭ** represents a space where technology, ideals, clarity, and dreams come together to inspire boundless creativity.  
 ## 【Club Declaration】
 > ©️《CÿHőKìYŭ》is a creativity club dedicated to innovation, open thinking, and diversity. We aim to break traditional boundaries by developing ideas inspired by existing technologies and fostering a space where imagination can thrive.
 >
@@ -15,3 +25,5 @@
 > - [Club_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Club_Chapter-v1.md)
 ## 【Our Group Structure】
 ![1000029512](https://github.com/user-attachments/assets/49723c1c-025f-4051-8a1d-02f1097622c5)
+## 【Our Milestone】
+> - **02-OCT-2025 09:45(HKT)**:©️《CÿHőKìYŭ》are officially open to the public. The first monthly CCS is held by CHUI-KA-CHUN 
