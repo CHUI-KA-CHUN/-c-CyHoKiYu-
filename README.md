@@ -26,6 +26,6 @@
 ## 【Our Group Structure】
 ![1000029512](https://github.com/user-attachments/assets/49723c1c-025f-4051-8a1d-02f1097622c5)
 ## 【Our Milestone】
-> - **02-OCT-2025 09:50(HKT)**:
+> - **02-OCT-2025 13:46(HKT)**:
 > 
 > ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CCS is held by CHUI-KA-CHUN 
