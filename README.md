@@ -1,14 +1,12 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
 ## 【Club Declaration】
-> ©️《CÿHőKìYŭ》is a creativity club group.
-> 
-> ©️《CÿHőKìYŭ》are committed to developing innovation, creative thinking, and diversification, and to continuously develop creatively based on existing technologies in the market, thereby breaking the traditional rules and patterns. We hope to create a creative space with a high degree of freedom and broad space, so that all members can unleash their unlimited imagination and creativity and expand their own "infinite universe".
+> ©️《CÿHőKìYŭ》is a creativity club dedicated to innovation, open thinking, and diversity. We aim to break traditional boundaries by developing ideas inspired by existing technologies and fostering a space where imagination can thrive.
 >
-> Furthermore, ©️《CÿHőKìYŭ》 values ​​individual and team development, creative creation, and long-term project development. Furthermore, it places great emphasis on the information literacy of its members.
+> Our vision is to create an environment with freedom and possibility, allowing members to expand their own "infinite universe." We value both individual and team growth, encourage long-term creative projects, and emphasize strong information literacy.
 >
-> As the commander-in-chief and chief supervisor, on behalf of this club, I hope and wish that all members can actively and bravely continue to try to explore their own infinite universe in this space.
+> As commander-in-chief, I encourage every member to explore boldly and unlock their limitless potential within this space.
 >
-> Club (C.C.S.): **CHUI-KA-CHUN**
+> **Club (C.C.S.): CHUI-KA-CHUN**  
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1.md)
