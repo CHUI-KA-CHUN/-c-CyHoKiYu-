@@ -1,4 +1,6 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
+## 【Club Name Meaning】
+> 
 ## 【Club Declaration】
 > ©️《CÿHőKìYŭ》is a creativity club dedicated to innovation, open thinking, and diversity. We aim to break traditional boundaries by developing ideas inspired by existing technologies and fostering a space where imagination can thrive.
 >
