@@ -1,5 +1,5 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
-## 【Our Background】
+## 【Club Declaration】
 > ©️《CÿHőKìYŭ》is a creativity club group.
 > 
 > ©️《CÿHőKìYŭ》are committed to developing innovation, creative thinking, and diversification, and to continuously develop creatively based on existing technologies in the market, thereby breaking the traditional rules and patterns. We hope to create a creative space with a high degree of freedom and broad space, so that all members can unleash their unlimited imagination and creativity and expand their own "infinite universe".
