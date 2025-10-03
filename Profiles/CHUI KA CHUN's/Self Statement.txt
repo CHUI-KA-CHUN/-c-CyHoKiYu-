@@ -2,8 +2,8 @@
 // CHUI KA CHUN's\Self-Statement:
   My name is Chui Ka Chun, and I am currently 17 years old, studying for the Higher Diploma in Software Engineering at 
 the Hong Kong Institute of Information Technology, where I am in my first semester. I would describe myself as a 
-creative and spontaneous programmer with a developing foundation in software development, currently at a 
-lower-intermediate level.  
+creative and non-formal programmer with a developing foundation in software development, currently at a 
+upper-intermediate level.  
 
   In terms of academic background, I was the 19th Graduate of Hong Kong Aldrich Bay Government Primary School and 
 later the 58th Graduate of Hong Kong Shau Kei Wan East Government Secondary School. During my senior secondary years, 
