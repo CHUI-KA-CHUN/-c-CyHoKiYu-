@@ -1,7 +1,7 @@
 # ©️《CÿHőKìYŭ》— A creativity group —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 ## 【Club Name Meaning】
-> The name "CÿHőKìYŭ" is composed of foThe name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
+> The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the club’s English nickname for C.C.S.) and also *Cyber*, reflecting our focus on technology.
 > 
 > - **Hő** – Represents *Hope* and *Hoshizato*, symbolizing personal ideals and long-term goals.
