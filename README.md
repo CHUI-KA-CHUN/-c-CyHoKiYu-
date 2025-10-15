@@ -24,7 +24,7 @@
 > - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
 > - [Club_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Club_Chapter-v1.md)
 ## 【Our Tribe Structure】
-![1000029512](https://github.com/user-attachments/assets/49723c1c-025f-4051-8a1d-02f1097622c5)
+
 ## 【Our Milestone】
 > - **02-OCT-2025 13:46(HKT)**:
 > 
