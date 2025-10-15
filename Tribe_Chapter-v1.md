@@ -1,6 +1,6 @@
-# ©️《CÿHőKìYŭ》— A creativity group
+# ©️《CÿHőKìYŭ》— A creativity tribe
 
-## Club Chapter (version-1)
+## Tribe Chapter (version-1)
 ### 1. Personal Integrity
 > ©️《CÿHőKìYŭ》are believe in honesty, respect, and responsibility. Every member must act fairly and treat others with trust and dignity.
 ### 2. Our Rules
@@ -39,8 +39,8 @@
 >>> ###### d) If you second offense the rule 3A(i) or 3B(ii)(b), you would got a warning mail;
 >>> ###### e) Otherwise: Your membership will be cancelled permanent cancellation.
 ### 4. Digital Conduct
-> #### A. Ask for consent before recording or posting group activities online;
+> #### A. Ask for consent before recording or posting tribe activities online;
 > #### B. Avoid harmful actions such as cyberbullying or doxxing.  
 ### 5. Accountability
 > #### A. Report any violation of these rules honestly;
-> #### B. Repeated or serious breaches may result in removal from the group or legal action.  
+> #### B. Repeated or serious breaches may result in removal from the tribe or legal action.  
