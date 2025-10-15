@@ -1,9 +1,9 @@
-# ©️《CÿHőKìYŭ》— A creativity group —
+# ©️《CÿHőKìYŭ》— A creativity tribe —
 ## Announcements: Gov-Announcement
 
 Dear Readers/Followers,
 
-©️《CÿHőKìYŭ》— A creativity group —. It is committed to safeguarding personal data in strict compliance with the *Personal Data (Privacy) Ordinance* (Cap. 486) of the Hong Kong Special Administrative Region.  
+©️《CÿHőKìYŭ》— A creativity tribe —. It is committed to safeguarding personal data in strict compliance with the *Personal Data (Privacy) Ordinance* (Cap. 486) of the Hong Kong Special Administrative Region.  
 
 We wish to inform our you that:  
 
@@ -18,8 +18,8 @@ Yours faithfully,
 
 CHUI KA CHUN (Cyrus CHUI K.C.)
 
-Chief Commander and Chief Supervisor
+Tribe CMO
 
 ©️《CÿHőKìYŭ》
 
-17-Sep-2025
+15-Oct-2025
