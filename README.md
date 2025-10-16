@@ -7,6 +7,8 @@
 > Would you be willing to take a few minutes to complete questionnaires?
 >
 > We are currently planning our first creative project. Nearing the end of the design and preparation phase, and we've starting the production. But although that, we did also like to hear your thoughts on this project, so we can make the prototypes and/or final products even more creative and cost-effective in the upcoming phases.
+>
+> Here are the URL for you:
 > [Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub](https://forms.cloud.microsoft/r/CDptAwYycw)
 
 ## 【Tribe Name Meaning】
@@ -32,6 +34,10 @@
 > ### Premalink URL
 > - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
 > - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Tribe_Chapter-v1.md)
+>
+> Tribe’s CMO, Tribe Teams
+>
+> 16, October, 2025
 ## 【Our Tribe Structure】
 
 ## 【Our Milestone】
