@@ -1,5 +1,10 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
+> ## Special Announcements
+> [Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub](https://forms.cloud.microsoft/r/CDptAwYycw)
+
+Dear Viewers and Followers, 
+Would you be willing to take a few minutes to complete questionnaires? We're currently planning our first creative project. We're nearing the end of the design and preparation phase, and if things go well, we'll soon begin production. But before that, we'd like to hear your thoughts on this project, so we can make the prototypes and/or final products even more creative and cost-effective in the upcoming phases.
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
