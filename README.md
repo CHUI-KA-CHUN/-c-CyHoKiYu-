@@ -22,7 +22,7 @@
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
-> - [Club_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Club_Chapter-v1.md)
+> - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Club_Chapter-v1.md)
 ## 【Our Tribe Structure】
 
 ## 【Our Milestone】
