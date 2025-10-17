@@ -46,4 +46,6 @@
 > 
 > ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CCS is held by CHUI-KA-CHUN
 >
-> 
+> - **16-OCT-2025 13:00(HKT)**
+>
+> ©️《CÿHőKìYŭ》publish first questionnaires and open to public——"Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub".
