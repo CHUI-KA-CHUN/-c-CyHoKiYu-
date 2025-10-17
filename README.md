@@ -39,8 +39,11 @@
 >
 > 16, October, 2025
 ## 【Our Tribe Structure】
+![1000030241](https://github.com/user-attachments/assets/a0d32c8a-69b9-41a0-9064-d24c96124e5a)
 
 ## 【Our Milestone】
 > - **02-OCT-2025 13:46(HKT)**:
 > 
-> ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CCS is held by CHUI-KA-CHUN 
+> ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CCS is held by CHUI-KA-CHUN
+>
+> 
