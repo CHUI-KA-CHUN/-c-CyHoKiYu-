@@ -29,18 +29,15 @@
 >
 > As commander-in-chief, I encourage every member to explore boldly and unlock their limitless potential within this space.
 >
-> **Tribe CMO: CHUI-KA-CHUN**  
+> **Tribe CMO, Tribe Teams**
+>
+> 16, October, 2025
 ## 【Announcements】
 > ### Premalink URL
 > - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
 > - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Tribe_Chapter-v1.md)
->
-> Tribe’s CMO, Tribe Teams
->
-> 16, October, 2025
 ## 【Our Tribe Structure】
 ![1000030241](https://github.com/user-attachments/assets/a0d32c8a-69b9-41a0-9064-d24c96124e5a)
-
 ## 【Our Milestone】
 > - **02-OCT-2025 13:46(HKT)**:
 > 
