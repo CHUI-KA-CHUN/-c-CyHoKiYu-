@@ -41,7 +41,7 @@
 ## 【Our Milestone】
 > - **02-OCT-2025 13:46(HKT)**:
 > 
-> ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CCS is held by CHUI-KA-CHUN
+> ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CMO is held by CHUI-KA-CHUN
 >
 > - **16-OCT-2025 13:00(HKT)**
 >
