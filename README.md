@@ -39,10 +39,4 @@
 ## 【Our Tribe Structure】
 ![1000030241](https://github.com/user-attachments/assets/a0d32c8a-69b9-41a0-9064-d24c96124e5a)
 ## 【Our Milestone】
-> - **02-OCT-2025 13:46(HKT)**:
-> 
-> ©️《CÿHőKìYŭ》are officially open to the public. The first monthly CMO is held by CHUI-KA-CHUN
->
-> - **16-OCT-2025 13:00(HKT)**
->
-> ©️《CÿHőKìYŭ》publish first questionnaires and open to public——"Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub".
+![1000030301](https://github.com/user-attachments/assets/353aa3be-b955-4a6f-b0ea-141881dbee6c)
