@@ -38,5 +38,6 @@
 > - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Tribe_Chapter-v1.md)
 ## 【Our Tribe Structure】
 ![1000030241](https://github.com/user-attachments/assets/a0d32c8a-69b9-41a0-9064-d24c96124e5a)
-## 【Our Milestone】
+## 【Tribe Milestone】
 ![1000030301](https://github.com/user-attachments/assets/353aa3be-b955-4a6f-b0ea-141881dbee6c)
+## _upcoming soon……_
