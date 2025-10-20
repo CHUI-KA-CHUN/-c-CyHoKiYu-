@@ -1,14 +1,15 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 
-### ☆Special Announcements☆
+### ☆Special Announcements(1)☆
 > Dear Collaborators/Followers/Viewers,
 > 
-> Thx for yours precious ideas given us of our first creativety project! After few days ago, we had collected several ideas but not enough. Although that but the project must go on!
+> Thx for yours precious ideas given to us! After few days ago, we had collected many ideas but not enough. However, the project must go on! We'll try our best to make our project well. Here are the schedule of our upcoming Activities/Information Release/Update/Mainintenance:
 >
-> Here are the URL for you:
-> [Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub](https://forms.cloud.microsoft/r/CDptAwYycw)
-## _upcoming soon......_
+> #### - 21.10.2025 <_time to be determineed_>:1st public-inform release(1st project opinion collection questionnaire survey data, preview &confirmation of follow-up procedures)
+>
+> #### - 22.10.2025 <_time to be determined_>: 
+>
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
@@ -21,7 +22,7 @@
 > 
 > Together, **CÿHőKìYŭ** represents a space where technology, ideals, clarity, and dreams come together to inspire boundless creativity.  
 ## 【Tribe Declaration】
-> ©️《CÿHőKìYŭ》is a creativity club dedicated to innovation, open thinking, and diversity. We aim to break traditional boundaries by developing ideas inspired by existing technologies and fostering a space where imagination can thrive.
+> ©️《CÿHőKìYŭ》is a creativity tribe dedicated to innovation, open thinking, and diversity. We aim to break traditional boundaries by developing ideas inspired by existing technologies and fostering a space where imagination can thrive.
 >
 > Our vision is to create an environment with freedom and possibility, allowing members to expand their own "infinite universe." We value both individual and team growth, encourage long-term creative projects, and emphasize strong information literacy.
 >
