@@ -15,7 +15,7 @@
 >> #### Announce the launch period of the official product.
 > ### - 23.10.2025 <_time to be determined_>: 1st Equation Preview (EV) Announcement Releaseion
 >> #### Announcement of final complection date.
-> ### - 24.10.2025 <Full Day>:
+> ### - 24.10.2025 <**Full Day**>:
 >> #### Buga tribe half-month anniversary, and
 >> #### Tribe CMO 18th birthday celebration.
 > **Tribe Teams,**
