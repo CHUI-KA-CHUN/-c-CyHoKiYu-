@@ -22,7 +22,8 @@
 >
 > 20, October, 2025
 ### ☆Special Announcement(2)☆
-> _upcoming soon…_
+> #### Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub——Data Announce
+>> _Data settlement in progress_
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
