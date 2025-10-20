@@ -4,12 +4,18 @@
 ### ☆Special Announcements(1)☆
 > Dear Collaborators/Followers/Viewers,
 > 
-> Thx for yours precious ideas given to us! After few days ago, we had collected many ideas but not enough. However, the project must go on! We'll try our best to make our project well. Here are the schedule of our upcoming Activities/Information Release/Update/Mainintenance:
+> Thx for yours precious ideas given to us! After few days ago, we had collected many ideas but not enough. However, the project must go on! We'll try our best to make our project well. Here're the schedule of our upcoming Activities/Information Release/Update/Mainintenance:
 >
-> #### - 21.10.2025 <_time to be determineed_>:1st public-inform release(1st project opinion collection questionnaire survey data, preview &confirmation of follow-up procedures)
->
-> #### - 22.10.2025 <_time to be determined_>: 
->
+> ### - 21.10.2025 <_time to be determineed_>: 1st public-inform Releaseion (Frist-Half)
+>> #### 1st project opinion collection questionnaire survey data, and
+>> #### Preview & confirmation of follow-up procedures.
+> ### - 22.10.2025 <_time to be determined_>: 1st public-inform Releaseion (Second-Half)
+>> #### Announce the release period of the trial product,
+>> #### Announce the development period, closed beta period, public beta period, and
+>> #### Announce the launch period of the official product.
+> ### - 23.10.2025 <_time to be determined_>: 1st Equation Preview (EV) Announcement Releaseion
+>> #### Announcement of final complection date.
+> ### - 24.10.2025 <Full Day>: 
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
