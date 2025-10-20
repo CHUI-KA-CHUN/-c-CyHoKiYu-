@@ -15,7 +15,14 @@
 >> #### Announce the launch period of the official product.
 > ### - 23.10.2025 <_time to be determined_>: 1st Equation Preview (EV) Announcement Releaseion
 >> #### Announcement of final complection date.
-> ### - 24.10.2025 <Full Day>: 
+> ### - 24.10.2025 <Full Day>:
+>> #### Buga tribe half-month anniversary, and
+>> #### Tribe CMO 18th birthday celebration.
+> **Tribe Teams,**
+>
+> 20, October, 2025
+### ☆Special Announcement(2)☆
+> _upcoming soon…_
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
@@ -34,7 +41,7 @@
 >
 > As commander-in-chief, I encourage every member to explore boldly and unlock their limitless potential within this space.
 >
-> **Tribe CMO, Tribe Teams**
+> **Tribe CMO: CHUI-KA-CHUN**
 >
 > 16, October, 2025
 ## 【Announcements】
