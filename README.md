@@ -4,13 +4,11 @@
 ### ☆Special Announcements☆
 > Dear Collaborators/Followers/Viewers,
 > 
-> Would you be willing to take a few minutes to complete questionnaires?
->
-> We are currently planning our first creative project. Nearing the end of the design and preparation phase, and we've starting the production. But although that, we did also like to hear your thoughts on this project, so we can make the prototypes and/or final products even more creative and cost-effective in the upcoming phases.
+> Thx for yours precious ideas given us of our first creativety project! After few days ago, we had collected several ideas but not enough. Although that but the project must go on!
 >
 > Here are the URL for you:
 > [Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub](https://forms.cloud.microsoft/r/CDptAwYycw)
-
+## _upcoming soon......_
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
