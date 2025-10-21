@@ -1,29 +1,22 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 
-### ☆Special Announcements(1)☆
-> Dear Collaborators/Followers/Viewers,
-> 
-> Thx for yours precious ideas given to us! After few days ago, we had collected many ideas but not enough. However, the project must go on! We'll try our best to make our project well. Here're the schedule of our upcoming Activities/Information Release/Update/Mainintenance:
->
-> ### - 21.10.2025 <**18:00/21:00 (HKT)**>: 1st public-inform Releaseion (Frist-Half)
+### ☆Special Announcements☆
+> Our upcoming Activities/Information Release/Update/Mainintenance:
+> ### - 21.10.2025 <**18:00/21:00 (HKT) --> 22.10.2025 21:00 (HKT) or later**>: 1st public-inform Releaseion (1st Half)
 >> #### 1st project opinion collection questionnaire survey data, and
 >> #### Preview & confirmation of follow-up procedures.
-> ### - 22.10.2025 <**21:00 (HKT)**>: 1st public-inform Releaseion (Second-Half)
+> ### - 22.10.2025 <**21:00 (HKT) --> 23.10.2025 23:00 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
 >> #### Announce the release period of the trial product,
 >> #### Announce the development period, closed beta period, public beta period, and
 >> #### Announce the launch period of the official product.
-> ### - 23.10.2025 <**17:00/17:30/18:00/18:30/19:00/21:00/22:00/22:30 (HKT)**>: 1st Equation Preview (EV) Announcement Releaseion
+> ### - 23.10.2025 <**17:00/17:30/18:00/18:30/19:00/21:00/22:00/22:30 (HKT) --> 24.10.2025 18:00 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 >> #### Announcement of final complection date.
-> ### - 24.10.2025 <**Full Day**>:
+> ### - 24.10.2025 <**Full Day** {Comfirmed}>:
 >> #### Buga tribe half-month anniversary, and
 >> #### Tribe CMO 18th birthday celebration.
-> **Tribe Teams,**
->
-> 20, October, 2025
-### ☆Special Announcement(2)☆
 > #### Idea Collection's 1st Creative Project ©️ by《CÿHőKìYŭ》@GitHub——Data Announce
->> _Data analysis in progress_
+>> **Setted & pending report result**
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
