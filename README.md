@@ -19,7 +19,7 @@
 >> **Setted & pending report result**
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
-> - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for CMO) and also *Cyber*, reflecting our focus on technology.
+> - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for C.P.O.) and also *Cyber*, reflecting our focus on technology.
 > 
 > - **Hő** – Represents *Hope* and *Hoshizato*, symbolizing personal ideals and long-term goals.
 >
@@ -35,7 +35,7 @@
 >
 > As commander-in-chief, I encourage every member to explore boldly and unlock their limitless potential within this space.
 >
-> **Tribe CMO: CHUI-KA-CHUN**
+> **Tribe C.P.O.: CHUI-KA-CHUN**
 >
 > 16, October, 2025
 ## 【Announcements】
