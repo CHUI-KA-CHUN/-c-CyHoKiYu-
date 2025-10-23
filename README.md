@@ -1,7 +1,7 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 
-> _**🎉🎊Celebrate for Buga tribe half-month anniversary & Tribe CMO 18th birthday celebration.🎊**_
+> _**★🎉🎊Celebrate for Buga tribe half-month anniversary & Tribe CMO 18th birthday celebration.🎊★**_
 ## ◆Activitie(s)◆
 ### 1st Public-inform Releaseion (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
