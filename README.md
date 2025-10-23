@@ -4,11 +4,11 @@
 ### 1st Public-inform Releaseion (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
 ## ♣︎Upcoming Activities♣︎
-### - 23.10.2025 <**20:00 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
+### - 23.10.2025 <**19:30 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
 > #### Announce the release period of the trial product,
 > #### Announce the development period, closed beta period, public beta period, and
 > #### Announce the launch period of the official product.
-### - 24.10.2025 <**21:00 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
+### - 24.10.2025 <**21:30 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 > #### Announcement of final complection date.
 ### - 24.10.2025 <**Full Day** {Comfirmed}>:
 > #### Buga tribe half-month anniversary, and
