@@ -1,7 +1,7 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 ## ◆Activitie(s)◆
-### 🆕️1st public-inform Releaseion (1st Half)
+### Public-inform Releaseion 1️⃣ (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
 ## ♣︎Upcoming Activities♣︎
 ### - 23.10.2025 <**23:00 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
