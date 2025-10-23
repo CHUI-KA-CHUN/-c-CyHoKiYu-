@@ -1,5 +1,7 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
+
+> _**Celebrate for Buga tribe half-month anniversary & Tribe CMO 18th birthday celebration.**_
 ## ◆Activitie(s)◆
 ### 1st Public-inform Releaseion (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
@@ -8,9 +10,6 @@
 ## ♣︎Upcoming Activities♣︎
 ### - 24.10.2025 <**21:30 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 > #### Announcement of final complection date.
-### - 24.10.2025 <**Full Day** {Comfirmed}>:
-> #### Buga tribe half-month anniversary, and
-> #### Tribe CMO 18th birthday celebration.
 ### - 25.10.2025 <_time be determined_>:
 > #### Routine maintenance
 ### - 26.10.2025 or latter<_time be determined_>：
