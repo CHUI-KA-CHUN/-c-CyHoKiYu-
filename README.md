@@ -1,18 +1,28 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 ## ◆Activitie(s)◆
-### Public-inform Releaseion 1️⃣ (1st Half)
+### 1st Public-inform Releaseion (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
 ## ♣︎Upcoming Activities♣︎
-### - 23.10.2025 <**23:00 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
+### - 23.10.2025 <**20:00 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
 > #### Announce the release period of the trial product,
 > #### Announce the development period, closed beta period, public beta period, and
 > #### Announce the launch period of the official product.
-### - 24.10.2025 <**18:00 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
+### - 24.10.2025 <**21:00 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 > #### Announcement of final complection date.
 ### - 24.10.2025 <**Full Day** {Comfirmed}>:
 > #### Buga tribe half-month anniversary, and
 > #### Tribe CMO 18th birthday celebration.
+### - 🆕️25.10.2025 <_time be determined_>:
+> #### 🆕️Routine maintenance
+### - 🆕️26.10.2025 or latter<_time be determined_>：
+> #### - 🆕️Announce important update, and
+> #### - 🆕️Design the First Releasesion Post-Review Questionnaire
+### - 🆕️27/28.10.2025~1/2.11.2025 <_time be determined_>:
+> #### - 🆕️Distribute the first releasesion post-review questionnaire
+### - 🆕️ 2/3.11.2025 <_time be determined_>:
+> #### - 🆕️Release of survey data from the review questionnaire, and
+> #### - 🆕️Items to be reviewed.
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for C.P.O.) and also *Cyber*, reflecting our focus on technology.
