@@ -6,10 +6,6 @@
 ### 1st Public-inform Releseion (2nd Half)
 > https://github.com/user-attachments/assets/4848ec39-fc16-4c9b-ac78-4795a107e01e
 ## ♣︎Upcoming Activities♣︎
-### - 23.10.2025 <**19:30 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
-> #### Announce the release period of the trial product,
-> #### Announce the development period, closed beta period, public beta period, and
-> #### Announce the launch period of the official product.
 ### - 24.10.2025 <**21:30 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 > #### Announcement of final complection date.
 ### - 24.10.2025 <**Full Day** {Comfirmed}>:
