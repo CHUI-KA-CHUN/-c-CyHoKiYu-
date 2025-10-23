@@ -4,7 +4,7 @@
 ### 1st Public-inform Releaseion (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
 ### 1st Public-inform Releseion (2nd Half)
-> 
+> https://github.com/user-attachments/assets/4848ec39-fc16-4c9b-ac78-4795a107e01e
 ## ♣︎Upcoming Activities♣︎
 ### - 23.10.2025 <**19:30 (HKT) or later**>: 1st public-inform Releaseion (Second-Half)
 > #### Announce the release period of the trial product,
