@@ -1,7 +1,11 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 
-> _**★🎉🎊Celebrate for Buga tribe half-month anniversary & Tribe CMO 18th birthday celebration.🎊★**_
+> _**★🎉🎊Celebrate for Buga tribe half-month anniversary & Tribe C.P.O. 18th birthday celebration.🎊★**_
+## 📍【Announcements】📌
+> ### Premalink URL
+> - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
+> - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Tribe_Chapter-v1.md)
 ## ◆Activitie(s)◆
 ### 1st Public-inform Releaseion (1st Half)
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
@@ -41,12 +45,11 @@
 > **Tribe C.P.O.: CHUI-KA-CHUN**
 >
 > 16, October, 2025
-## 【Announcements】
-> ### Premalink URL
-> - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
-> - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Tribe_Chapter-v1.md)
+## 【Our Overalls Structure】
+> ### _**Upcoming soon…**_
+## 【Our Overalls Milestone】
+> ### _**Upcoming soon…**_
 ## 【Our Tribe Structure】
 ![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
-## 【Tribe Milestone】
-> ### _In updating_
-## _upcoming soon……_
+## 【Tribe Period Milestone】
+![1000030761](https://github.com/user-attachments/assets/96706349-ef08-459b-b23c-1f6885549fdb)
