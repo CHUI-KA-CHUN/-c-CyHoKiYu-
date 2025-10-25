@@ -1,7 +1,7 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 
-> _**★🎉🎊Celebrate for Buga tribe half-month anniversary & Tribe C.P.O. 18th birthday celebration.🎊★**_
+> _**★🎉🎊Celebrate for Buga tribe half-month anniversary🎊★**_
 ## 📍【Announcements】📌
 > ### Premalink URL
 > - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
