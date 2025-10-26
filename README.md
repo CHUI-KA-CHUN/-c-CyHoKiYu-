@@ -12,7 +12,6 @@
 ## ♣︎Upcoming Activities♣︎
 ### - 24.10.2025 <**21:30 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 > #### Announcement of final complection date.
-### - 25.10.2025 <_time be determined_>:
 > #### Routine maintenance
 ### - 26.10.2025 or latter<_time be determined_>：
 > #### - Announce important update, and
