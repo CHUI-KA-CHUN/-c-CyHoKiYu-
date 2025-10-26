@@ -49,10 +49,10 @@
 >
 > 16, October, 2025
 ## 【Our Overalls Structure】
-> ### _**Upcoming soon…**_
+>  _**Upcoming soon…**_
 ## 【Our Overalls Milestone】
-> ### _**Upcoming soon…**_
+>  _**Upcoming soon…**_
 ## 【Our Tribe Structure】
 ![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
 ## 【Tribe Period Milestone】
-![1000030761](https://github.com/user-attachments/assets/96706349-ef08-459b-b23c-1f6885549fdb)
+> _**In updating…**_
