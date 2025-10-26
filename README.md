@@ -16,9 +16,9 @@
 ### - 26.10.2025 or latter<_time be determined_>：
 > #### - Announce important update, and
 > #### - Design the First Releasesion Post-Review Questionnaire
-### - 27/28.10.2025~1/2.11.2025 <_time be determined_>:
+### - 27/28.10.2025~1/2.11.2025 or latter<_time be determined_>:
 > #### - Distribute the first releasesion post-review questionnaire
-### - 2/3.11.2025 <_time be determined_>:
+### - 2/3.11.2025 or latter<_time be determined_>:
 > #### - Release of survey data from the review questionnaire, and
 > #### - Items to be reviewed.
 ### - 🆕️ 8.11.2025 <_**time be determined**_>
