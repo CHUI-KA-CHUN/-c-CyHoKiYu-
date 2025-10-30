@@ -1,7 +1,6 @@
 # ©️《CÿHőKìYŭ》— A creativity tribe —
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 >
-> _**🎉🎊Celebrate for Buga tribe 1️⃣ month anniversary🎊**_
 ## 📍【Announcements】📌
 > ### Premalink URL
 > - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
@@ -23,10 +22,10 @@
 ### - 2/3.11.2025 or latter<_time be determined_>:
 > #### - Release of survey data from the review questionnaire, and
 > #### - Items to be reviewed.
-### - 🆕️ 8.11.2025 <_**time be determined**_>
-> #### - 🆕️ Daily maintenance
-### - 🆕️ 16.11.2025 <_**Full Day**_>
-> #### - 🆕️ Tribe 1️⃣＆Half-month anniversary 🎊 
+### - 8.11.2025 <_**time be determined**_>
+> #### - Daily maintenance
+### - 16.11.2025 <_**Full Day**_>
+> #### - Tribe＆Half-month anniversary 🎊 
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for C.P.O.) and also *Cyber*, reflecting our focus on technology.
