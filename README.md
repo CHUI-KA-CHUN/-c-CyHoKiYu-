@@ -19,13 +19,13 @@
 > #### - Design the First Releasesion Post-Review Questionnaire
 ### - 27/28.10.2025~1/2.11.2025 or latter<_time be determined_>:
 > #### - Distribute the first releasesion post-review questionnaire
+### - 2.11.2025 <_**Full Day**_>:
+> #### - Tribe 1️⃣month anniversary 🎊
 ### - 2/3.11.2025 or latter<_time be determined_>:
 > #### - Release of survey data from the review questionnaire, and
 > #### - Items to be reviewed.
 ### - 8.11.2025 <_**time be determined**_>
 > #### - Daily maintenance
-### - 16.11.2025 <_**Full Day**_>
-> #### - Tribe＆Half-month anniversary 🎊 
 ## 【Tribe Name Meaning】
 > The name "CÿHőKìYŭ" is composed of fo the name **CÿHőKìYŭ** is built from four parts, each carrying a special meaning:
 > - **Cÿ** – From the first two letters of *Cyrus* (the tribe’s English nickname for C.P.O.) and also *Cyber*, reflecting our focus on technology.
