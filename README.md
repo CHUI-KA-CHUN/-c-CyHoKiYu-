@@ -2,9 +2,7 @@
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 >
 ## 📍【Announcements】📌
-> ### Premalink URL
-> - [Gov_Announcement-v1.1(Revision of v1)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/GovAnnouncement_v1-1.md)
-> - [Tribe_Chapter-v1](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/Tribe_Chapter-v1.md)
+> _**In maintaining**_
 ## 🎬[RV]｜Public-Inform Releaseion 1️⃣
 ### Frist Half
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
@@ -54,4 +52,4 @@
 ## 【Our Tribe Structure】
 ![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
 ## 【Tribe Period Milestone】
-> _**In updating…**_
+![1000031167](https://github.com/user-attachments/assets/36afdfe0-1627-43b3-bc7e-b27e213e944f)
