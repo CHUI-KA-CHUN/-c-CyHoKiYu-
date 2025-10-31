@@ -1,4 +1,4 @@
-# ©️《CÿHőKìYŭ》— A creativity tribe —
+# ©️《CÿHőKìYŭ》
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 >
 ## 📍【Announcements】📌
