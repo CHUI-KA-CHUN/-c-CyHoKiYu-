@@ -2,7 +2,7 @@
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 >
 ## 📍【Announcements】📌
-> _**In maintaining**_
+> 🆕️ [Draftly Official Tribe Charter Articles (TAC)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
 ## 🎬[RV]｜Public-Inform Releaseion 1️⃣
 ### Frist Half
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
