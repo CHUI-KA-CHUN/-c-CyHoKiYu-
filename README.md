@@ -8,10 +8,7 @@
 ## 【Tribe Period Milestone】
 ![1000031167](https://github.com/user-attachments/assets/36afdfe0-1627-43b3-bc7e-b27e213e944f)
 ## 🎬[RV]｜Public-Inform Releaseion 1️⃣
-### Frist Half
-> https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
-### Second Half
-> https://github.com/user-attachments/assets/4848ec39-fc16-4c9b-ac78-4795a107e01e
+https://github.com/user-attachments/assets/6838d06e-09d2-4dce-b6d3-2b7a7594b3bf
 ## ♣︎Upcoming Activities♣︎
 ### - 24.10.2025 <**21:30 (HKT) or latter**>: 1st Equation Preview (EV) Announcement Releaseion
 > #### Announcement of final complection date.
