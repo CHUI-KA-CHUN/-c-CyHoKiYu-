@@ -3,6 +3,10 @@
 >
 ## 📍【Announcements】📌
 > 🆕️ [Draftly Official Tribe Charter Articles (TAC)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
+## 【Our Tribe Structure】
+![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
+## 【Tribe Period Milestone】
+![1000031167](https://github.com/user-attachments/assets/36afdfe0-1627-43b3-bc7e-b27e213e944f)
 ## 🎬[RV]｜Public-Inform Releaseion 1️⃣
 ### Frist Half
 > https://github.com/user-attachments/assets/a435347e-1975-4281-b64c-9b2d419a91c8
@@ -20,8 +24,7 @@
 ### - 2.11.2025 <_**Full Day**_>:
 > #### - Tribe 1️⃣month anniversary 🎊
 ### - 2/3.11.2025 or latter<_time be determined_>:
-> #### - Release of survey data from the review questionnaire, and
-> #### - Items to be reviewed.
+> #### - Release of survey data from the review questionnaire
 ### - 8.11.2025 <_**time be determined**_>
 > #### - Daily maintenance
 ## 【Tribe Name Meaning】
@@ -49,7 +52,3 @@
 >  _**Upcoming soon…**_
 ## 【Our Overalls Milestone】
 >  _**Upcoming soon…**_
-## 【Our Tribe Structure】
-![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
-## 【Tribe Period Milestone】
-![1000031167](https://github.com/user-attachments/assets/36afdfe0-1627-43b3-bc7e-b27e213e944f)
