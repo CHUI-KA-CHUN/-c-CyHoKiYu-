@@ -1,5 +1,7 @@
 # ©️《CÿHőKìYŭ》
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
+> 
+> **🎉🎊Celebrate for the Tribe 1️⃣ month anniversary🎊**
 >
 ## 📍【Announcements】📌
 > 🆕️ [Draftly Official Tribe Charter Articles (TAC)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
@@ -18,8 +20,6 @@ https://github.com/user-attachments/assets/6838d06e-09d2-4dce-b6d3-2b7a7594b3bf
 > #### - Design the First Releasesion Post-Review Questionnaire
 ### - 27/28.10.2025~1/2.11.2025 or latter<_time be determined_>:
 > #### - Distribute the first releasesion post-review questionnaire
-### - 2.11.2025 <_**Full Day**_>:
-> #### - Tribe 1️⃣month anniversary 🎊
 ### - 2/3.11.2025 or latter<_time be determined_>:
 > #### - Release of survey data from the review questionnaire
 ### - 8.11.2025 <_**time be determined**_>
