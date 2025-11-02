@@ -9,7 +9,7 @@
 ## 【Our Tribe Structure】
 ![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
 ## 【Tribe Period Milestone】
-![1000031167](https://github.com/user-attachments/assets/36afdfe0-1627-43b3-bc7e-b27e213e944f)
+![1000031297](https://github.com/user-attachments/assets/bf9cf65f-f817-429a-94a5-9cd17fe4741a)
 ## 🎬[RV]｜Public-Inform Releaseion 1️⃣
 https://github.com/user-attachments/assets/6838d06e-09d2-4dce-b6d3-2b7a7594b3bf
 ## ♣︎Upcoming Activities♣︎
