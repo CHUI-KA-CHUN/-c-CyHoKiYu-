@@ -1,4 +1,4 @@
-# ©️《CÿHőKìYŭ》
+# ©️《CÿHőKìYŭ》Creativete Tribe｜©️《星浩奇夢》創意部落
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 ## 📍【Announcements】📌
 ### Useful Guides
@@ -6,13 +6,13 @@
 - [Draftly Official Tribe Charter Articles (TAC)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
 ## 🎬[RV]｜Public-Inform Releaseion 1️⃣
 https://github.com/user-attachments/assets/6838d06e-09d2-4dce-b6d3-2b7a7594b3bf
-## 【Our Tribe Structure】
-> _**Maintaining…**_
+## 【About Us】
+### Our Structure
+<img width="1346" height="1109" alt="1000031384" src="https://github.com/user-attachments/assets/713a1ee7-db6b-4c09-80e7-3df8599e1f0e" />
+
 ## 【Tribe Period Milestone】
 > _**Maintaining…**_
 ## ♣︎Upcoming Activities♣︎
 > _**Maintaining…**_
-## 【Our Overalls Structure】
->  _**Upcoming soon…**_
 ## 【Our Overalls Milestone】
 >  _**Upcoming soon…**_
