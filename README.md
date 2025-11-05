@@ -11,7 +11,6 @@
 https://github.com/user-attachments/assets/6838d06e-09d2-4dce-b6d3-2b7a7594b3bf
 ## ♣︎Upcoming Activities♣︎
 > _**Maintaining…**_
-> #### - Daily maintenance
 
 ## 【Our Overalls Structure】
 >  _**Upcoming soon…**_
