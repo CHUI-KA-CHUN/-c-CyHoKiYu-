@@ -1,8 +1,9 @@
 # ©️《CÿHőKìYŭ》
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_
 ## 📍【Announcements】📌
->  ### [Reserved Draftly Official Tribe Charter Articles (TAC) (Reserved)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv%20(Reserved).pdf)
-> ### [Draftly Official Tribe Charter Articles (TAC)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
+### Useful Guides
+- [Reserved Draftly Official Tribe Charter Articles (TAC) (Reserved)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv%20(Reserved).pdf)
+- [Draftly Official Tribe Charter Articles (TAC)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
 ## 【Our Tribe Structure】
 ![1000030302](https://github.com/user-attachments/assets/0128b902-0091-4d71-860a-0602d1209a33)
 ## 【Tribe Period Milestone】
