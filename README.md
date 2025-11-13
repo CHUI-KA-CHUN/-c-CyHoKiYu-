@@ -5,7 +5,9 @@
 - [Reserved Draftly Official Tribe Charter Articles((TAC)-English Ver.(Reserved)｜部落憲章草案(TAC) 英文版 (修訂）](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv%20(Reserved).pdf)
 - [Draftly Official Tribe Charter Articles (TAC)-English Ver.｜部落憲章草案條款（TAC) 英文版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
-## 🆕️ 🎞[PR]-Public Releaseion:JP Riser CyHoKiYu(part2)｜🎞[PR]-公開發布：JP Riser CyHoKiYu（第2部）
+## 🔜 🎬[FV]-Forward Video: JP Riser CyHoKiYu (Top Half)｜🎬[FV]-前瞻：JP Riser CyHoKiYu（頭半場）
+## 🔜 🎞[PR]-Public Releaseion:JP Riser CyHoKiYu(part2(Con't))｜🎞[PR]-公開發布：JP Riser CyHoKiYu（第2部•續）
+## 🎞[PR]-Public Releaseion:JP Riser CyHoKiYu(part2)｜🎞[PR]-公開發布：JP Riser CyHoKiYu（第2部）
 https://github.com/user-attachments/assets/a2315c2b-afbc-470f-b2da-7efc3b9cfa5c
 ## 🎞[PR]-Public Releaseion:JP Riser CyHoKiYu(part1(Con't))｜🎞[PR]-公開發布：JP Riser CyHoKiYu（第1部•續）
 https://github.com/user-attachments/assets/32e3480a-63f5-4a33-b3fe-10fd8715f363
