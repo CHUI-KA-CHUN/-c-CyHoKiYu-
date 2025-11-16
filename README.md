@@ -1,6 +1,6 @@
 ## ©️《CÿHőKìYŭ》Creativete Tribe｜©️《星浩奇夢》創意部落
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_｜_**星浩奇夢 — ♾️靈感，♾️可能。**_
->,_**🎊🎉🍰1.5-Month Anniversary Celebration｜1.5週月紀念賀祭🎊**_
+> _**🎊🎉🍰1.5-Month Anniversary Celebration｜1.5週月紀念賀祭🎊**_
 ## 📍【Announcements 公告】📌
 ### Useful Guides 實用指南
 - ✴️ [Reserved Draftly Official Tribe Charter Articles((TAC)-English Ver.(Reserved)｜部落憲章草案(TAC) 英文版 (修訂）](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv%20(Reserved).pdf)
