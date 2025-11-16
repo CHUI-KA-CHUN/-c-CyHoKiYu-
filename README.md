@@ -8,10 +8,10 @@
 - [Draftly Official Tribe Charter Articles (TAC)-English Ver.｜部落憲章草案條款（TAC) 英文版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 🆕️ 🎬[FV]-Forward Video: JP Riser CyHoKiYu (Top Half)｜🆕️🎬[FV]-前瞻：JP Riser CyHoKiYu（頭半場）
-### part1
-### > 
-### part 2
-### > 
+### 🆕️ part1
+https://github.com/user-attachments/assets/825b6a63-22c6-41f2-8468-22962325ea95
+### 🆕️ part 2
+https://github.com/user-attachments/assets/8fb6574c-c8c1-493f-9ffd-a592721d048f
 ## 🎞[PR]-Public Releaseion:JP Riser CyHoKiYu(part2(Con't))｜🎞[PR]-公開發布：JP Riser CyHoKiYu（第2部•續）
 https://github.com/user-attachments/assets/09b21b11-1893-49a1-83c6-9aab399019a6
 ## 🎞[PR]-Public Releaseion:JP Riser CyHoKiYu(part2)｜🎞[PR]-公開發布：JP Riser CyHoKiYu（第2部）
