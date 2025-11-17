@@ -4,7 +4,7 @@
 > _**🎊🎉🍰1.5-Month Anniversary Celebration｜1.5週月紀念賀祭🎊**_
 ## 📍【Announcements 公告】📌
 ### Useful Guides 實用指南
-- 🆕️ [©️《CÿHőKìYŭ》 Articles Charter|©️《星浩奇夢》 章程]()
+- 🆕️ [©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 🆕️ 🎬[FV]-Forward Video: JP Riser CyHoKiYu (Top Half)｜🆕️🎬[FV]-前瞻：JP Riser CyHoKiYu（頭半場）
 ### 🆕️ part1
