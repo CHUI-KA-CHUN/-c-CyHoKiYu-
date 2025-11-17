@@ -4,8 +4,7 @@
 > _**🎊🎉🍰1.5-Month Anniversary Celebration｜1.5週月紀念賀祭🎊**_
 ## 📍【Announcements 公告】📌
 ### Useful Guides 實用指南
-- ✴️ [Reserved Draftly Official Tribe Charter Articles((TAC)-English Ver.(Reserved)｜部落憲章草案(TAC) 英文版 (修訂）](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv%20(Reserved).pdf)
-- [Draftly Official Tribe Charter Articles (TAC)-English Ver.｜部落憲章草案條款（TAC) 英文版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_Dv.pdf)
+- 🆕️ [©️《CÿHőKìYŭ》 Articles Charter|©️《星浩奇夢》 章程]()
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 🆕️ 🎬[FV]-Forward Video: JP Riser CyHoKiYu (Top Half)｜🆕️🎬[FV]-前瞻：JP Riser CyHoKiYu（頭半場）
 ### 🆕️ part1
