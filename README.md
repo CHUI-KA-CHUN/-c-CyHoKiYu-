@@ -1,6 +1,8 @@
 ## ©️《CÿHőKìYŭ》Creativete Tribe｜©️《星浩奇夢》創意部落
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_｜_**星浩奇夢 — ♾️靈感，♾️可能。**_
 ## 📍【Announcements 公告】📌
+### 🆕️‼️Special Announcement 特別公告‼️
+> Account of the spontaneous java project 
 ### Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
