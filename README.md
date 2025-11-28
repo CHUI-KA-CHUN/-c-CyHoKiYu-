@@ -2,13 +2,9 @@
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_｜_**星浩奇夢 — ♾️靈感，♾️可能。**_
 ## 📍【Announcements 公告】📌
 ### 🆕️‼️Special Announcement 特別公告‼️
-> After the enhancing, we had got a & decided a new schema already. So, we would now thaw the spontaneous java project——JP Riser CyHoKiYu——. Moreover, we renamed the project to “RiserJP cCHKYc”, then all the period and the construction hours would be recount.
+> After the enhancing, we had got a & decided a new schema already. So, we would now thaw the spontaneous java project——JP Riser CyHoKiYu——. Moreover, we renamed the project to “RiserJP cCHKYc”, then all the period and the construction hours would be recount.The 🆕️PIRV1️⃣ we are released already at 28-11-2025 11:15. Don't be miss‼️😊😊😊
 >
-> Later on, at 11:15(HKT), we would release the 🆕️PIRV1️⃣. Don't be forget‼️😊😊😊
->
-> 增強完成後，我們已經確定了新的方案。因此，我們現即解凍先前的Java專案——JP Riser CyHoKiYu——。此外，我們將專案重新命名為“RiserJP cCHKYc”，然後重新計算所有工期和施工時數。
->
-> 稍後，11:15（香港時間），我們將發布🆕️PIRV1️⃣。別忘了哦‼ ️😊😊😊
+> 經過增強後，我們已經確定了新的架構。因此，我們現在將解凍自發創建的 Java 專案——JP Riser CyHoKiYu——。此外，我們將專案重新命名為“RiserJP cCHKYc”，所有工期和建設工時都將重新計算。我們在 2025 年 11 月 28 日 11:15 發布了 🆕️PIRV1️⃣。千萬不要錯過‼ ️😊😊😊
 ### Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - 🆕️ [PCS00125:RiserJP](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
