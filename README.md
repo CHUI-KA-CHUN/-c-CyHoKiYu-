@@ -4,8 +4,11 @@
 ### 🆕️‼️Special Announcement 特別公告‼️
 > After the enhancing, we had got a & decided a new schema already. So, we would now thaw the spontaneous java project——JP Riser CyHoKiYu——. Moreover, we renamed the project to “RiserJP cCHKYc”, then all the period and the construction hours would be recount.
 >
+> Later on, at 11:15(HKT), we would release the 🆕️PIRV1️⃣. Don't be forget‼️😊😊😊
+>
 > 增強完成後，我們已經確定了新的方案。因此，我們現即解凍先前的Java專案——JP Riser CyHoKiYu——。此外，我們將專案重新命名為“RiserJP cCHKYc”，然後重新計算所有工期和施工時數。
-
+>
+> 稍後，11:15（香港時間），我們將發布🆕️PIRV1️⃣。別忘了哦‼ ️😊😊😊
 ### Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
