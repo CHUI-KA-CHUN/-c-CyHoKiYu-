@@ -11,7 +11,7 @@
 > 稍後，11:15（香港時間），我們將發布🆕️PIRV1️⃣。別忘了哦‼ ️😊😊😊
 ### Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
-- 🆕️ [PCS00125:RiserJP cCHKYc](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
+- 🆕️ [PCS00125:RiserJP cCHKYc (PIRs)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/edit/main/README.md#pcs00125-pirs)
 - 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 【About Us 關於我們】
 ### Our Structure 我們的架構
