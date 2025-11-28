@@ -17,4 +17,4 @@
 <img width="1346" height="1109" alt="1000031384" src="https://github.com/user-attachments/assets/713a1ee7-db6b-4c09-80e7-3df8599e1f0e" />
 ##【PCS00125：RiserJP cCHKYc】
 ### PCS00125-PIR0011：🆕️PIRV1️⃣
-[https://drive.google.com/file/d/1r8lpdHmtljz2W6vTk8tQpvMtdCL5jG4Q/view?usp=drivesdk](Let watch)
+[Let watch it](https://drive.google.com/file/d/1r8lpdHmtljz2W6vTk8tQpvMtdCL5jG4Q/view?usp=drivesdk)
