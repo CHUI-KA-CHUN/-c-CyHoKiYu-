@@ -1,5 +1,9 @@
 ## ©️《CÿHőKìYŭ》Creativete Tribe｜©️《星浩奇夢》創意部落
 > _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_｜_**星浩奇夢 — ♾️靈感，♾️可能。**_
+> 
+> 🎉🎊Celebrate for《CÿHőKìYŭ》's & CHKYtribe's2️⃣Month Anniversary🎊 
+>
+> 🎉🎊慶祝《CÿHőKìYŭ》和 CHKYtribe 成立兩週月🎊
 ## 📍【Announcements 公告】📌
 ### 🆕️‼️Special Announcement 特別公告‼️
 > After the enhancing, we had got a & decided a new schema already. So, we would now thaw the spontaneous java project——JP Riser CyHoKiYu——. Moreover, we renamed the project to “RiserJP cCHKYc”, then all the period and the construction hours would be recount.The 🆕️PIRV1️⃣ we are released already at 28-11-2025 11:15. Don't be miss‼️😊😊😊
