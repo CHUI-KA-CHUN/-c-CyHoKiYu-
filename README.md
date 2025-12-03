@@ -4,7 +4,7 @@
 > - GitHub's best1️⃣：The 1st that use a naming convention that includes regular-CHARs, punctuation, emojis(tags), and special-CHARs.｜GitHub 之最1️⃣：第一個使用包含常規字元、標點符號、表情符號（標籤）和特殊字元的命名約定的存庫。
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
-> 🆕️ #### Program Preview｜節目預告
+> #### 🆕️Program Preview｜節目預告
 > > After several days of reflection and consideration, RiserJP cCHKYc has made a small step forward. Although it's just a small step, it's already a step towards ♾️. In order to better record each step of our process and share our creative insights with the outside world, we have specially produced a short video to record this moment, which we plan to release to the public in the coming days.
 > >
 > > Here're the listing of the upcoming release item(s):
