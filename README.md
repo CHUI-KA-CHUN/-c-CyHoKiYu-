@@ -20,4 +20,4 @@
 
 ## 【PCS00125：RiserJP cCHKYc】
 ### PCS00125-PIRs
-> 🆕️ [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it](https://drive.google.com/file/d/1r8lpdHmtljz2W6vTk8tQpvMtdCL5jG4Q/view?usp=drivesdk)
+> [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it](https://drive.google.com/file/d/1r8lpdHmtljz2W6vTk8tQpvMtdCL5jG4Q/view?usp=drivesdk)
