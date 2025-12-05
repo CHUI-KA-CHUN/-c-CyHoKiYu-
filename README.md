@@ -1,6 +1,5 @@
 ## ©️《CÿHőKìYŭ》Creativete Tribe｜©️《星浩奇夢》創意部落
 > - _**CÿHőKìYŭ — Infinite inspiration, infinite possibilities.**_｜_**星浩奇夢 — ♾️靈感，♾️可能。**_
-> - **🎉🎊Celebrate for《CÿHőKìYŭ》's & CHKYtribe's2️⃣Month Anniversary🎊｜🎉🎊慶祝《CÿHőKìYŭ》和 CHKYtribe 成立兩週月🎊**
 > - GitHub's best1️⃣：The 1st that use a naming convention that includes regular-CHARs, punctuation, emojis(tags), and special-CHARs.｜GitHub 之最1️⃣：第一個使用包含常規字元、標點符號、表情符號（標籤）和特殊字元的命名約定的存庫。
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
