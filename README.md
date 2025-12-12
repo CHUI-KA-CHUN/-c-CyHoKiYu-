@@ -9,23 +9,23 @@
 > >
 > > Here're the listing of the upcoming release item(s):
 > > - 🆙️ PCS00125-PIR0011(vol.2)（12-12-2025 11:35 HKT）
-> > - 🆕️ PCS00125-PIR0011(vol.3)（12-12-2025 12:00 HKT）
+> > - 🆙️🆕️ PCS00125-PIR0011(vol.3)（12-12-2025 11:35 HKT）
 > >
 > > 經過數日的思索＆考量，RiserJP cCHKYc有了新一少步的進展。儘使1少步，但它已可變成♾️的走向。為能好讓地記錄我們過程的每1步，與外界得以交流創作心得，我們特意製作了1段短視頻，用以記錄該刻，並將計劃在來臨的日子中釋出至公開。
 > >
 > > 以下是即將發布的項目列表：
 > > - 🆙️ PCS00125-PIR0011(第2彈)（12-12-2025 11:35 HKT）
-> > - 🆕️ PCS00125-PIR0011(第3彈)（12-12-2025 12:00 HKT）
+> > - 🆙️🆕️ PCS00125-PIR0011(第3彈)（12-12-2025 11:35 HKT）
 ## Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - [PCS00125:RiserJP](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
 - [PCS00125:RiserJP cCHKYc (PIRs)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125-pirs)
-- 🆙️ [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
+-  [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 【About Us 關於我們】
 ### Our Structure 我們的架構
 <img width="1346" height="1109" alt="1000031384" src="https://github.com/user-attachments/assets/713a1ee7-db6b-4c09-80e7-3df8599e1f0e" />
 
-## 🆙️【PCS00125：RiserJP cCHKYc】
-### 🆙️ PCS00125-PIRs
-> - 🆙️ [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it｜PCS00125-PIR0011(第1彈) <⏱️約1分鐘> 👈立即觀看](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
+## 【PCS00125：RiserJP cCHKYc】
+###  PCS00125-PIRs
+> - [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it｜PCS00125-PIR0011(第1彈) <⏱️約1分鐘> 👈立即觀看](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
 > - _coming as soon…_
