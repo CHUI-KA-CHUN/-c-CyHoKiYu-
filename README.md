@@ -14,6 +14,9 @@
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - [PCS00125:RiserJP](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
 - [PCS00125:RiserJP cCHKYc (PIRs)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125-pirs)
+- 🆕️[Quick view PCS00125-PIR0011i now｜立即快速觀看PCS00125之首期第1部PRV](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
+- 🆕️[Quick view PCS00125-PIR0011ii now｜立即快速觀看PCS00125之首期第2部PRV](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
+- 🆕️[Quick view PCS00125-PIR0011iii now｜立即快速觀看PCS00125之首期第3部PRV](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
 -  [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 【About Us 關於我們】
 ### Our Structure 我們的架構
