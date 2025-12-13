@@ -5,6 +5,11 @@
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### Program Preview｜節目預告
+> #### 🆕️Project News｜項目快報
+> PCS00125-PIR0011ii (i.e., PCS00125-PIR0011 Part 2) and PCS00125-PIR0011iii (PCS00125-PIR0011 Part 3) have been released at 12-12-2025. Don't miss it.
+> 
+> PCS00125-PIR0011ii（即 PCS00125-PIR0011 第2部）和 PCS00125-PIR0011iii（PCS00125-PIR0011 第3部）經已在2025年12月12日發布。切勿錯過呀！
+> _The new item are be coming as soon_
 ## Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - [PCS00125:RiserJP](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
@@ -17,5 +22,5 @@
 ## 【PCS00125：RiserJP cCHKYc】
 ###  PCS00125-PIRs
 > - [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it｜PCS00125-PIR0011(第1彈) <⏱️約1分鐘> 👈立即觀看](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
-> - 🆕️[PIR0011：Project Information Releaseion (Vol.2) <⏱️40secs> 👈Let's watch it｜PCS00125-PIR0011(第2彈) <⏱️40秒> 👈立即觀看](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
-> - 🆕️[PIR0011：Project Information Releaseion (Vol.3) <⏱️2mins 29secs> 👈Let's watch it｜PCS00125-PIR0011(第3彈) <⏱️2分鐘 29秒> 👈立即觀看](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
+> - [PIR0011：Project Information Releaseion (Vol.2) <⏱️40secs> 👈Let's watch it｜PCS00125-PIR0011(第2彈) <⏱️40秒> 👈立即觀看](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
+> - [PIR0011：Project Information Releaseion (Vol.3) <⏱️2mins 29secs> 👈Let's watch it｜PCS00125-PIR0011(第3彈) <⏱️2分鐘 29秒> 👈立即觀看](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
