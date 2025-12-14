@@ -4,20 +4,20 @@
 > - GitHub's best：The 1st that use a naming convention that includes regular-CHARs, punctuation, emojis(tags), and special-CHARs.｜GitHub 之最：首個使用包含常規字元、標點符號、表情符號（標籤）和特殊字元的命名約定的存庫。
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
+> #### 🆕️Special Preview｜特別預告
+> > 4 days left, our bi-weekly are becoming soon, we will be holding a two-day Keio Days at that time. Additionally, this time would be the fifth time that we hold this special event, we look foward to have your participation and attention at that time. 14th December 2025, we've made a promise with you!
+> >
+> > 距離半月一次的創建週月慶還有4天，屆時我們將舉辦為期兩天的慶應日活動。此外，這將是我們第五次舉辦這項特別活動，我們期待您的參與和關注。 2025年12月14日，我們與您約定！
 > #### Program Preview｜節目預告
-> #### 🆕️Project News｜項目快報
-> PCS00125-PIR0011ii (i.e., PCS00125-PIR0011 Part 2) and PCS00125-PIR0011iii (PCS00125-PIR0011 Part 3) have been released at 12-12-2025. Don't miss it.
-> 
-> PCS00125-PIR0011ii（即 PCS00125-PIR0011 第2部）和 PCS00125-PIR0011iii（PCS00125-PIR0011 第3部）經已在2025年12月12日發布。切勿錯過呀！
-> _The new item are be coming as soon_
+> #### Project News｜項目快報
 ## Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - [PCS00125:RiserJP](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
 - [PCS00125:RiserJP cCHKYc (PIRs)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125-pirs)
-- 🆕️[Quick view PCS00125-PIR0011i now｜立即快速觀看PCS00125之首期第1部PRV](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
-- 🆕️[Quick view PCS00125-PIR0011ii now｜立即快速觀看PCS00125之首期第2部PRV](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
-- 🆕️[Quick view PCS00125-PIR0011iii now｜立即快速觀看PCS00125之首期第3部PRV](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
--  [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
+- [Quick view PCS00125-PIR0011i now｜立即快速觀看PCS00125之首期第1部PRV](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
+- [Quick view PCS00125-PIR0011ii now｜立即快速觀看PCS00125之首期第2部PRV](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
+- [Quick view PCS00125-PIR0011iii now｜立即快速觀看PCS00125之首期第3部PRV](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
+- [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 ## 【About Us 關於我們】
 ### Our Structure 我們的架構
 <img width="1346" height="1109" alt="1000031384" src="https://github.com/user-attachments/assets/713a1ee7-db6b-4c09-80e7-3df8599e1f0e" />
