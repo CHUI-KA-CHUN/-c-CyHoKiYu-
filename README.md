@@ -2,7 +2,6 @@
 ## CHKYtribe｜©️《星浩奇夢》創意迷你部落
 > - _**Inspiration ♾️ Achievement ♾️ Possibility**_｜_**靈感♾️成就♾️可能。**_
 > - **⏰5th／2.5 Months Anniversary Countdown: ～2days 6hours｜⏰5th／2.5 週月慶倒數：約2天6小時**
-> - GitHub's best：The 1st that use a naming convention that includes regular-CHARs, punctuation, emojis(tags), and special-CHARs.｜GitHub 之最：首個使用包含常規字元、標點符號、表情符號（標籤）和特殊字元的命名約定的存庫。
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### 🆙️Special Preview｜特別預告
