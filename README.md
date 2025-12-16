@@ -4,10 +4,7 @@
 > - **5th bi-weekly／2.5 Months two-day Keio Days｜5th／2.5 半週月慶慶應日**
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
-> #### 🆙️Special Preview｜特別預告
-> > Less than around 1hr30mins left, our bi-weekly are becoming soon, we will be holding a two-day Keio Days at that time. Additionally, this time would be the fifth time that we hold this special event, we look foward to have your participation and attention at that time. 17th December 2025 00：00 HKT, we've made a promise with you!
-> >
-> > 距離半月一次的創建週月慶還有1.5小時不等，屆時我們將舉辦為期兩天的慶應日活動。此外，這將是我們第五次舉辦這項特別活動，我們期待您的參與和關注。 2025年12月17日 深夜12時正(00:00-香港時間)，我們與您約定！
+> #### Special Preview｜特別預告
 > #### 🆕 Maintenance Notice｜維護公告
 > > Soory to imform you guys, As time goes by and with intermittent, gradual progress, CÿHőKìYŭ has evolved from its inception to its current state, aiming to slowly establish itself as a repository space on GitHub.com. However, before the moment coming, considerd that CÿHőKìYŭ must should have a clear and simple idea regarding any starting point, projects, and development trends for the future. So, CÿHőKìYŭ briefly planed would maintaining and organizing all information, guides, library interfaces, etc., accumulated over the past two and a half months since its creation at 19-12-2025 13:00 HKT. At that time, this repository may be temporarily suspended from public access until the repository is maintained and reorganized.
 >
