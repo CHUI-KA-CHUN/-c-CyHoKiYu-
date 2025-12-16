@@ -1,7 +1,7 @@
 ## ©️《CÿHőKìYŭ》—— provide you a creativity mini space ｜ ©️《星浩奇夢》—— 帶給你1個可自由發揮小宇宙的創意迷你空間
 ## CHKYtribe｜©️《星浩奇夢》創意迷你部落
 > - _**Inspiration ♾️ Achievement ♾️ Possibility**_｜_**靈感♾️成就♾️可能。**_
-> - **⏰5th／2.5 Months Anniversary Countdown: ～15hours 10min｜⏰5th／2.5 週月慶倒數：約15小時 10分鐘**
+> - **⏰5th／2.5 Months Anniversary Countdown: ～12hours 10min｜⏰5th／2.5 週月慶倒數：約12小時 10分鐘**
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### 🆙️Special Preview｜特別預告
