@@ -1,13 +1,13 @@
 ## ©️《CÿHőKìYŭ》—— provide you a creativity mini space ｜ ©️《星浩奇夢》—— 帶給你1個可自由發揮小宇宙的創意迷你空間
 ## CHKYtribe｜©️《星浩奇夢》創意迷你部落
 > - _**Inspiration ♾️ Achievement ♾️ Possibility**_｜_**靈感♾️成就♾️可能。**_
-> - **⏰5th／2.5 Months Anniversary Countdown: ～2days 6hours｜⏰5th／2.5 週月慶倒數：約2天6小時**
+> - **⏰5th／2.5 Months Anniversary Countdown: ～15hours 40min｜⏰5th／2.5 週月慶倒數：約15小時 40分鐘**
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### 🆙️Special Preview｜特別預告
-> > Less than 3 full days left, our bi-weekly are becoming soon, we will be holding a two-day Keio Days at that time. Additionally, this time would be the fifth time that we hold this special event, we look foward to have your participation and attention at that time. 17th December 2025, we've made a promise with you!
+> > Less than 1 full days left, our bi-weekly are becoming soon, we will be holding a two-day Keio Days at that time. Additionally, this time would be the fifth time that we hold this special event, we look foward to have your participation and attention at that time. 17th December 2025 00：00 HKT, we've made a promise with you!
 > >
-> > 距離半月一次的創建週月慶還有不足3整天，屆時我們將舉辦為期兩天的慶應日活動。此外，這將是我們第五次舉辦這項特別活動，我們期待您的參與和關注。 2025年12月17日，我們與您約定！
+> > 距離半月一次的創建週月慶還有不足1整天，屆時我們將舉辦為期兩天的慶應日活動。此外，這將是我們第五次舉辦這項特別活動，我們期待您的參與和關注。 2025年12月17日 深夜12時正(00:00-香港時間)，我們與您約定！
 > #### Program Preview｜節目預告
 > #### Project News｜項目快報
 ## Useful Guides 實用指南
