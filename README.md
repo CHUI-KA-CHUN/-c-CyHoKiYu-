@@ -1,13 +1,13 @@
 ## ©️《CÿHőKìYŭ》—— provide you a creativity mini space ｜ ©️《星浩奇夢》—— 帶給你1個可自由發揮小宇宙的創意迷你空間
 ## CHKYtribe｜©️《星浩奇夢》創意迷你部落
 > - _**Inspiration ♾️ Achievement ♾️ Possibility**_｜_**靈感♾️成就♾️可能。**_
-> - **⏰5th／2.5 Months Anniversary Countdown: ~3hours 55min｜⏰5th／2.5 週月慶倒數：約3小時 55分鐘**
+> - **⏰5th／2.5 Months Anniversary Countdown: ~35min｜⏰5th／2.5 週月慶倒數：約35分鐘**
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### 🆙️Special Preview｜特別預告
-> > Less than around 3 to 4 hours left, our bi-weekly are becoming soon, we will be holding a two-day Keio Days at that time. Additionally, this time would be the fifth time that we hold this special event, we look foward to have your participation and attention at that time. 17th December 2025 00：00 HKT, we've made a promise with you!
+> > Less than around 35 mins left, our bi-weekly are becoming soon, we will be holding a two-day Keio Days at that time. Additionally, this time would be the fifth time that we hold this special event, we look foward to have your participation and attention at that time. 17th December 2025 00：00 HKT, we've made a promise with you!
 > >
-> > 距離半月一次的創建週月慶還有3至4小時不等，屆時我們將舉辦為期兩天的慶應日活動。此外，這將是我們第五次舉辦這項特別活動，我們期待您的參與和關注。 2025年12月17日 深夜12時正(00:00-香港時間)，我們與您約定！
+> > 距離半月一次的創建週月慶還有35分鐘不等，屆時我們將舉辦為期兩天的慶應日活動。此外，這將是我們第五次舉辦這項特別活動，我們期待您的參與和關注。 2025年12月17日 深夜12時正(00:00-香港時間)，我們與您約定！
 > #### 🆕 Maintenance Notice｜維護公告
 > Soory to imform you guys, As time goes by and with intermittent, gradual progress, CÿHőKìYŭ has evolved from its inception to its current state, aiming to slowly establish itself as a repository space on GitHub.com. However, before the moment coming, considerd that CÿHőKìYŭ must should have a clear and simple idea regarding any starting point, projects, and development trends for the future. So, CÿHőKìYŭ briefly planed would maintaining and organizing all information, guides, library interfaces, etc., accumulated over the past two and a half months since its creation at 19-12-2025 13:00 HKT. At that time, this repository may be temporarily suspended from public access until the repository is maintained and reorganized.
 >
