@@ -5,7 +5,7 @@
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### Special Preview｜特別預告
-> #### 🆕 Maintenance Notice｜維護公告
+> #### Maintenance Notice｜維護公告
 > > Soory to imform you guys, As time goes by and with intermittent, gradual progress, CÿHőKìYŭ has evolved from its inception to its current state, aiming to slowly establish itself as a repository space on GitHub.com. However, before the moment coming, considerd that CÿHőKìYŭ must should have a clear and simple idea regarding any starting point, projects, and development trends for the future. So, CÿHőKìYŭ briefly planed would maintaining and organizing all information, guides, library interfaces, etc., accumulated over the past two and a half months since its creation at 19-12-2025 13:00 HKT. At that time, this repository may be temporarily suspended from public access until the repository is maintained and reorganized.
 >
 > > 很抱歉通知大家，隨著時間的推移和斷斷續續的進展，CÿHőKìYŭ 從最初的1顆小種子到現在種子開始發大，並在 GitHub.com 上從一個空庫到現在開始有自主內容。然而 CÿHőKìYŭ 的下個小目標是慢慢嘗試在 GitHub.com 的庫空間區找到屬於自己的站點，但在此之前，考慮到 CÿHőKìYŭ 將須開始對未來的起點、專案和發展趨勢有一個清晰明確的規劃，因此，CÿHőKìYŭ 計劃定於 2025 年 12 月 19 日 13:00 HKT 維護和整理自創庫以來兩個半月積累的所有資訊、指南庫等。屆時，本庫可能會暫時停止對外公開，直至完成維護和整理工作。
