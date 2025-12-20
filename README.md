@@ -4,8 +4,9 @@ Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨
 ## CÿHőKì miniTribe｜星浩奇迷你創意部落
 _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾️🔀♾️可能**_
 ### 📍⚠️📣📋Announcements Board📌｜📍⚠️📣📋公告欄📌
+> - **Ⓜ️Routine✳️**
+> - **Ⓜ️恆常✳️**
 
-### Routine Announcements｜恆常公告
 > #### Special Preview｜特別預告
 > #### Delay Notice｜延誤通知
 > #### Maintenance Notice｜維護公告
