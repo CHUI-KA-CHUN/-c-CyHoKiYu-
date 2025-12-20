@@ -2,8 +2,8 @@
 Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨
 帶給你1個可自由♾️💡🪄🔮的創意迷你空間
 ## CÿHőKì miniTribe｜星浩奇迷你創意部落
+_**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾️🔀♾️可能**_
 
-> - _**Inspiration ♾️ Achievement ♾️ Possibility**_｜_**靈感♾️成就♾️可能。**_
 ## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### Special Preview｜特別預告
