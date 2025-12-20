@@ -5,8 +5,6 @@ Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨
 _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾️🔀♾️可能**_
 ## 📍⚠️📣📋Announcements Board📌｜📍⚠️📣📋公告欄📌
 
-
-## 📍【Announcements Board 公告欄】📌
 ### Routine Announcements｜恆常公告
 > #### Special Preview｜特別預告
 > #### Delay Notice｜延誤通知
