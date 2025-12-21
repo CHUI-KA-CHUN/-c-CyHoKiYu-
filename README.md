@@ -16,13 +16,15 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > - 🔜**Special Preview**
 > - 🔜**特別預告**
 > - 🔜**Permanent**
+> > - 🔜**[🔜Activities🗓](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)**
 > - 🔜**常駐**
 > - 🔜**Program Preview**
 > - 🔜**節目預告**
+> - 🔜**Program Express**
+> - 🔜**項目快報**
 
 ## Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
-- [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 - [PCS00125:RiserJP](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
 - [PCS00125:RiserJP cCHKYc (PIRs)](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125-pirs)
 - [Quick view PCS00125-PIR0011i now｜立即快速觀看PCS00125之首期第1部PRV](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
