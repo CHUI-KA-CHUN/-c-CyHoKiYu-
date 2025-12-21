@@ -16,7 +16,7 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > - 🔜**Special Preview**
 > - 🔜**特別預告**
 > - 🔜**Permanent**
-> > - 🔜**[Upcoming Activities🗓](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv) **
+> > - 🔜 **[Upcoming Activities🗓](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv) **
 > - 🔜**常駐**
 > - 🔜**Program Preview**
 > - 🔜**節目預告**
