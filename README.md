@@ -12,10 +12,11 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > > - 🔜**🛡🛠🛡例行維護**
 > - 🔜**❇️Temporary📄❇️**
 > - 🔜**❇️臨時📄❇️**
+### 🔜Information Express
+### 🔜情訊快報
 
 > #### Special Preview｜特別預告
 > #### Program Preview｜節目預告
-> #### Project News｜項目快報
 ## Useful Guides 實用指南
 - ✴️[©️《CÿHőKìYŭ》 Articles Charter-ver1|©️《星浩奇夢》 章程-第1版](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 - [Upcoming Activities Schedule｜近期活動安排](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
