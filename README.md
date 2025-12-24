@@ -29,7 +29,7 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > - 🔜**Program Express**
 > > - 🔜[**The 1st spontaneous creativity small project：RiserJP cCHKYc（PID：0️⃣0️⃣1️⃣2️⃣5️⃣）**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-?tab=readme-ov-file#pcs00125riserjp-cchkyc)
 > - 🔜**項目快報**
-
+> > 🔜把歉！暫時未能提供中文版本的項目資訊
 ## 【About Us 關於我們】
 ### Our Structure 我們的架構
 <img width="1346" height="1109" alt="1000031384" src="https://github.com/user-attachments/assets/713a1ee7-db6b-4c09-80e7-3df8599e1f0e" />
