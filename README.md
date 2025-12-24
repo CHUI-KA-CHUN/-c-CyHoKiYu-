@@ -20,7 +20,9 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > > - 🔜[**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 > - 🔜**常駐**
 > > 🔜抱歉!暫時未能提供中文版本的主章程。
+
 > > 🔜抱歉!暫時未能提供中文版本的部落only章程。
+
 > > 🔜抱歉!暫時未能提供中文版本的來臨活動時間表。
 > - 🔜**Program Preview**
 > - 🔜**節目預告**
