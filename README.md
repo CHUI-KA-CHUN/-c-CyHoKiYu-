@@ -16,7 +16,7 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > - 🔜**Special Preview**
 > - 🔜**特別預告**
 > - 🔜**Permanent**
-> > - 🔜[**Articles Charter version1**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
+> > - 🔜[**Articles Charter version1(To be revised)**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)
 > > - 🔜[**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchedule.csv)
 > - 🔜**常駐**
 > > 🔜抱歉!暫時未能提供中文版本的主章程。
