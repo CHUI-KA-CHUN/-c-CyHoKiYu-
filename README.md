@@ -26,7 +26,7 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > - 🔜**Program Preview**
 > - 🔜**節目預告**
 > - 🔜**Program Express**
-> > - 🔜[**The 1st spontaneous creativity small project：RiserJP cCHKYc（PID：0️⃣0️⃣1️⃣2️⃣5️⃣）**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/README.md#pcs00125riserjp-cchkyc)
+> > - 🔜[**The 1st spontaneous creativity small project：RiserJP cCHKYc（PID：0️⃣0️⃣1️⃣2️⃣5️⃣）**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-?tab=readme-ov-file#pcs00125riserjp-cchkyc)
 > - 🔜**項目快報**
 
 ## Useful Guides 實用指南
