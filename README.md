@@ -1,6 +1,6 @@
-_**Newly appointed interviewee in progress……**_
+_**Newly appointed interviewee in progress…**_
 
-_**新配面試行中……**_
+_**新配面試行中…**_
 # ©️《CÿHőKìYŭ》｜ ©️《星浩奇夢》
 Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨
 帶給你1個可自由♾️💡🪄🔮的創意迷你空間
