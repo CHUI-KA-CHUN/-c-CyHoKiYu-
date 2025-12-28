@@ -6,8 +6,7 @@ Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨
 帶給你1個可自由♾️💡🪄🔮的創意迷你空間
 ## CÿHőKì miniTribe｜星浩奇迷你創意部落
 _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾️🔀♾️可能**_
-### 🆕️📣⚠️📋⚠️📌 Announcements Board
-### 🆕️📣⚠️📋⚠️📌 公告欄
+### 🆕️📣⚠️📋⚠️📌 Announcements Board 公告欄
 
 > - 🆕️**⚠️🏧✴️Exigent📄✴️🏧**
 > - 🆕️**⚠️🏧✴️緊急📄✴️🏧⚠️**
