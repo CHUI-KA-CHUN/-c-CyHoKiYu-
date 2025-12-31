@@ -32,6 +32,6 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 
 ## 【RiserJP cCHKYc】
 ###  Project Information Releasion Shorts（PIRs）｜項目資訊發布短頻
-> - [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it｜PCS00125-PIR0011(第1彈) <⏱️約1分鐘> 👈立即觀看](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
-> - [PIR0011：Project Information Releaseion (Vol.2) <⏱️40secs> 👈Let's watch it｜PCS00125-PIR0011(第2彈) <⏱️40秒> 👈立即觀看](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
-> - [PIR0011：Project Information Releaseion (Vol.3) <⏱️2mins 29secs> 👈Let's watch it｜PCS00125-PIR0011(第3彈) <⏱️2分鐘 29秒> 👈立即觀看](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
+> - [PIR0011：Project Information Releaseion (Vol.1) <⏱️~1min> 👈Let's watch it｜PIR0011(第1彈) <⏱️約1分鐘> 👈立即觀看](https://github.com/user-attachments/assets/10f800b0-f67a-459e-b522-de1d23ab300b)
+> - [PIR0011：Project Information Releaseion (Vol.2) <⏱️40secs> 👈Let's watch it｜PIR0011(第2彈) <⏱️40秒> 👈立即觀看](https://github.com/user-attachments/assets/1f672add-6da1-4e1f-b7ad-c84279163ce4)
+> - [PIR0011：Project Information Releaseion (Vol.3) <⏱️2mins 29secs> 👈Let's watch it｜PIR0011(第3彈) <⏱️2分鐘 29秒> 👈立即觀看](https://github.com/user-attachments/assets/9da9253d-ef2c-453b-9b53-31d4bf910ea4)
