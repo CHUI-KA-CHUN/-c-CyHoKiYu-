@@ -1,6 +1,5 @@
 _**The new interface has been officially implemented.｜新配面正式實裝**_
 
-_**【2025→2026 farewell × CHKY 3-Month Anniverasry Week Celabration】—— Let's celabrate this fantastic week moment｜【2025→2026 × CHKY 三個月紀念週慶祝活動】—— 讓我們一起慶祝這美好的一周**_
 # ©️《CÿHőKìYŭ》｜ ©️《星浩奇夢》
 Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨｜帶予你一可自由♾️💡🪄🔮的創意迷你空間
 ## CÿHőKì miniTribe｜星浩奇迷你創意部落
