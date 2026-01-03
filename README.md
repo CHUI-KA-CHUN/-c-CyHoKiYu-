@@ -16,8 +16,7 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > 
 ### 🆕️Information Express｜情訊快報
 > 🆕️**Special Preview｜特別預告**
-> > 2025 is coming to an end so quickly, but we won't stop; we'll keep moving forward, hoping for a fresh start in the new year. Furthermore, on January 1, 2026, at 00:00 Hong Kong time, we will have a celebratory week to bid farewell to 2025 and welcome 2026 × ©️《CÿHőKìYŭ》Naming & its mini tribe created 3️⃣Month Anniversary Celabration week. The celebratory period will be from 23:30 Hong Kong time on December 31, 2025 to 12:00 Hong Kong time on January 3, 2026.｜話那麼快2025年便要結束了，但我們不會停步，仍會一路前行，期望在新的一年有新的開始。另外，在2026年1月1日00：00香港時間我們更會有⌈歡送2025，迎接2026⌋×⌈©️《星浩奇夢》創名＆星浩奇迷你創意部落創建3週月⌋的慶祝週。節日期間2025年12月31日23：30香港時間～2026年1月3日12：00香港時間。
-
+> > 
 > 🆕️**Permanent｜常駐**
 > > 🆕️[**Articles Charter version1(To be revised)**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)｜抱歉！暫時未能提供中文版本的自主圓規劃章程。
 > > 
