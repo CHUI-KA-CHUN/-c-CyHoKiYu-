@@ -1,31 +1,29 @@
-_**The new interface has been officially implemented.｜新配面正式實裝**_
-
 # ©️《CÿHőKìYŭ》｜ ©️《星浩奇夢》
 Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨｜帶予你一可自由♾️💡🪄🔮的創意迷你空間
 ## CÿHőKì miniTribe｜星浩奇迷你創意部落
 _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾️🔀♾️可能**_
-### 🆕️📣⚠️📋📄📌⚠️ Announcements Board 公告欄
-> 🆕️**⚠️🏧✴️🏧⚠️Exigent 緊急**
+### 📣⚠️📋📄📌⚠️ Announcements Board 公告欄
+> **⚠️🏧✴️🏧⚠️Exigent 緊急**
 > 
-> 🆕️**❇️Ⓜ️❇️Routine 恆常**
+> **❇️Ⓜ️❇️Routine 恆常**
 > 
-> 🆕️**🛡🛠🛡Routine Egis 例行維護**
+> **🛡🛠🛡Routine Egis 例行維護**
 > 
-> 🆕️**✳️Temporary 臨時**
+> **✳️Temporary 臨時**
 > 
-### 🆕️Information Express｜情訊快報
-> 🆕️**Special Preview｜特別預告**
+### Information Express｜情訊快報
+> **Special Preview｜特別預告**
 > > 
-> 🆕️**Permanent｜常駐**
-> > 🆕️[**Articles Charter version1(To be revised)**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)｜抱歉！暫時未能提供中文版本的自主圓規劃章程。
+> **Permanent｜常駐**
+> > [**Articles Charter version1(To be revised)**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)｜抱歉！暫時未能提供中文版本的自主圓規劃章程。
 > > 
-> > 🆕️[**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/eed10c27062f4eb90e8273eeb38aa357ca400113/ActiveSchadule.csv)｜抱歉！暫未能提供中文版的來臨活動時間表。
+> > [**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/eed10c27062f4eb90e8273eeb38aa357ca400113/ActiveSchadule.csv)｜抱歉！暫未能提供中文版的來臨活動時間表。
 
-> 🆕️**Program Preview｜節目預告**
+> **Program Preview｜節目預告**
 > > 
-> 🆕️**Program Express｜項目快報**
+> **Program Express｜項目快報**
 > 
-> > 🆕️[**1st spontaneous creativity small project：RiserJP cCHKYc**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-?tab=readme-ov-file#pcs00125riserjp-cchkyc)｜把歉！暫未能提供其中文版本的項目資訊。
+> > [**1st spontaneous creativity small project：RiserJP cCHKYc**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-?tab=readme-ov-file#pcs00125riserjp-cchkyc)｜把歉！暫未能提供其中文版本的項目資訊。
 ## 【About Us 關於我們】
 ### Our Structure 我們的架構
 <img width="1346" height="1109" alt="1000031384" src="https://github.com/user-attachments/assets/713a1ee7-db6b-4c09-80e7-3df8599e1f0e" />
