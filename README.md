@@ -18,6 +18,9 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > > [**Articles Charter version1(To be revised)**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)｜抱歉！暫時未能提供中文版本的自主圓規劃章程。
 > > 
 > > [**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/eed10c27062f4eb90e8273eeb38aa357ca400113/ActiveSchadule.csv)｜抱歉！暫未能提供中文版的來臨活動時間表。
+> >
+> > 🆕**Past maintenance｜過往的維護**
+> > > [Overall Optimization1️⃣@19-12-2025 👈Click here to learn more](https://github.com/user-attachments/files/24444815/CHKY-OTM--19122025-pv%2B.pdf)｜抱歉！該摘要並未設有中文譯本。
 
 > **Program Preview｜節目預告**
 > > 
