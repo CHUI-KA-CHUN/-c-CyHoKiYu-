@@ -18,7 +18,7 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > **Permanent｜常駐**
 > > [**Articles Charter version1(To be revised)**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/cCHKYc-TAC_ver1.pdf)｜抱歉！暫時未能提供中文版本的自主圓規劃章程。
 > > 
-> > [**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchadule.csv)｜[**來臨活動時間表**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/%E4%BE%86%E8%87%A8%E6%B4%BB%E5%8B%95%E6%99%82%E9%96%93%E8%A1%A8.csv)
+> > [**Upcoming Activities🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/ActiveSchadule.csv)｜[**來臨活動時間表🗓**](https://github.com/CHUI-KA-CHUN/-c-CyHoKiYu-/blob/main/%E4%BE%86%E8%87%A8%E6%B4%BB%E5%8B%95%E6%99%82%E9%96%93%E8%A1%A8.csv)
 > >
 > > 🆕**Past maintenance｜過往的維護**
 > > > [Overall Optimization1️⃣@19-12-2025 👈Click here to learn more](https://github.com/user-attachments/files/24444815/CHKY-OTM--19122025-pv%2B.pdf)｜抱歉！該摘要並未設有中文譯本。
