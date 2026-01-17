@@ -10,7 +10,10 @@ _**💁‍♂️💭💡♾️🔀♾️Possibility｜💁‍♂️💭💡♾�
 > **❇️Ⓜ️❇️Routine 恆常**
 > 
 > **🛡🛠🛡Routine Egis 例行維護**
+> With the fourth anniversary of the name's creation approaching, a series of limited-time commemorative events will be held over four days. However, before that, to facilitate continued development and preparation, we will be implementing some interface optimizations. Details will be announced within the next three days.
 > 
+> 建名4週月將近，屆時將會舉行一系列且1連4日的限定紀念。但在這之前。為配合持續發展＆作提前準備，我們的介面將會擬訂一些優化。詳情將在未來3天內公佈。
+>
 > **✳️Temporary 臨時**
 > 
 ### Information Express｜情訊快報
