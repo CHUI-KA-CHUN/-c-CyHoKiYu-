@@ -1,4 +1,5 @@
 _**Happy Celebrate for CHKY 3.5Month🎆🎇🎉**_
+_**喜賀 CHKY 3.5 週月雙日紀念祭🎆🎇🎉**_
 # ©️《CÿHőKìYŭ》｜ ©️《星浩奇夢》
 Bringing you a mini space with a ♾️💡🪄🔮little 🌠✨｜帶予你一可自由♾️💡🪄🔮的創意迷你空間
 ## CÿHőKì miniTribe｜星浩奇迷你創意部落
